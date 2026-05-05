@@ -1,0 +1,1885 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505181102FSGDZF</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260505181102U30QOI</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Being safe online</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>SdA</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Richard Taylor Pleite</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>en</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777971549875</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>a065a2f0-1387-4da8-af84-63200e1fb7a4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Introduction</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introduction</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Introduction</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>a065a2f0-1387-4da8-af84-63200e1fb7a4</odePageId>
+      <odeBlockId>block-1777972204345-489q1022k</odeBlockId>
+      <blockName>Text</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>a065a2f0-1387-4da8-af84-63200e1fb7a4</odePageId>
+          <odeBlockId>block-1777972204345-489q1022k</odeBlockId>
+          <odeIdeviceId>idevice-1777972204342-qrvis6u1r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🌐 Being Safe Online</p>
+<p><br />Welcome to this Learning Experience!<br /> </p>
+<p>In this project, you are going to learn how to be SAFE and RESPONSIBLE on the internet. You will use English to talk about dangers online and what to do to protect yourself and your friends.<br /> </p>
+<p>What are we going to do?<br />•       Watch videos and read texts about internet safety.</p>
+<p>•       Learn key vocabulary in English.</p>
+<p>•       Play games and do activities to practise what you learn.</p>
+<p>•       Create an interactive INFOGRAPHIC about how to be safe online.</p>
+<p>•       Film a short VIDEO showing dangerous situations and how to react.</p>
+<p> </p>
+<p>How long?<br />We will work on this project for 6 sessions (about 45–60 minutes each).</p>
+<p> </p>
+<p>What do you need?<br />•       A device with internet access (tablet, computer, or mobile phone).</p>
+<p>•       Your creativity and your English!</p>
+<p> </p>
+<p>♿  ACCESSIBILITY NOTE (DUA): All videos have subtitles. All images have descriptions. If you need support in Spanish at any point, ask your teacher.<br /> </p>
+<p>Your final products:</p>
+<p><br />📊 PRODUCT 1</p>
+<p>Interactive Infographic</p>
+<p>Topic: "How to be safe online"</p>
+<p>Tool: Canva or Genially</p>
+<p>Must include: clickable elements!</p>
+<p>🎬 PRODUCT 2<br /><br />Short Video (role-play)</p>
+<p>Topic: dangerous situations &amp; solutions</p>
+<p>Tool: Clipchamp, iMovie or phone</p>
+<p>Length: 1–2 minutes</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777972204342-qrvis6u1r","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>🌐 Being Safe Online</p>\n<p><br />Welcome to this Learning Experience!<br /> </p>\n<p>In this project, you are going to learn how to be SAFE and RESPONSIBLE on the internet. You will use English to talk about dangers online and what to do to protect yourself and your friends.<br /> </p>\n<p>What are we going to do?<br />•       Watch videos and read texts about internet safety.</p>\n<p>•       Learn key vocabulary in English.</p>\n<p>•       Play games and do activities to practise what you learn.</p>\n<p>•       Create an interactive INFOGRAPHIC about how to be safe online.</p>\n<p>•       Film a short VIDEO showing dangerous situations and how to react.</p>\n<p> </p>\n<p>How long?<br />We will work on this project for 6 sessions (about 45–60 minutes each).</p>\n<p> </p>\n<p>What do you need?<br />•       A device with internet access (tablet, computer, or mobile phone).</p>\n<p>•       Your creativity and your English!</p>\n<p> </p>\n<p>♿  ACCESSIBILITY NOTE (DUA): All videos have subtitles. All images have descriptions. If you need support in Spanish at any point, ask your teacher.<br /> </p>\n<p>Your final products:</p>\n<p><br />📊 PRODUCT 1</p>\n<p>Interactive Infographic</p>\n<p>Topic: \"How to be safe online\"</p>\n<p>Tool: Canva or Genially</p>\n<p>Must include: clickable elements!</p>\n<p>🎬 PRODUCT 2<br /><br />Short Video (role-play)</p>\n<p>Topic: dangerous situations &amp; solutions</p>\n<p>Tool: Clipchamp, iMovie or phone</p>\n<p>Length: 1–2 minutes</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777971611391-5w6vfv3st</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Session 1 - What do you know?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Session 1 - What do you know?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777971611391-5w6vfv3st</odePageId>
+      <odeBlockId>block-1777972305994-hxvo8khe8</odeBlockId>
+      <blockName>Overview</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777971611391-5w6vfv3st</odePageId>
+          <odeBlockId>block-1777972305994-hxvo8khe8</odeBlockId>
+          <odeIdeviceId>idevice-1777972305992-83f80kdae</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎯 Session goals<br />•       Think about what you already know about the internet.</p>
+<p>•       Learn some key words in English.</p>
+<p>•       Find out what you will learn in this project.</p>
+<p> </p>
+<p>♿  DUA: If reading is difficult for you, listen to your teacher read aloud. Work with a partner if you need support.<br /> </p>
+<p>🧠 Warm-up: What do you know about the internet?<br />Look at the questions below with your partner. Talk in English or Spanish — it's OK!</p>
+<p>•       Do you use the internet at home?</p>
+<p>•       What do you use it for? (games, videos, social media...)</p>
+<p>•       Do you know what «cyberbullying» means?</p>
+<p>•       Have you ever seen something online that made you feel uncomfortable?</p>
+<p> </p>
+<p>🎬 VIDEO: «Internet Safety for Kids» — Watch and think: what THREE dangers are mentioned?  </p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/JTl211YlFzc?si=4p3aoKBC2tJSdXXB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: left;">✏️ After the video — Complete the sentences (iDevice: Fill in the Blanks)</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777972305992-83f80kdae","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>🎯 Session goals<br />•       Think about what you already know about the internet.</p>\n<p>•       Learn some key words in English.</p>\n<p>•       Find out what you will learn in this project.</p>\n<p> </p>\n<p>♿  DUA: If reading is difficult for you, listen to your teacher read aloud. Work with a partner if you need support.<br /> </p>\n<p>🧠 Warm-up: What do you know about the internet?<br />Look at the questions below with your partner. Talk in English or Spanish — it's OK!</p>\n<p>•       Do you use the internet at home?</p>\n<p>•       What do you use it for? (games, videos, social media...)</p>\n<p>•       Do you know what «cyberbullying» means?</p>\n<p>•       Have you ever seen something online that made you feel uncomfortable?</p>\n<p> </p>\n<p>🎬 VIDEO: «Internet Safety for Kids» — Watch and think: what THREE dangers are mentioned?  </p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/JTl211YlFzc?si=4p3aoKBC2tJSdXXB\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: left;\">✏️ After the video — Complete the sentences (iDevice: Fill in the Blanks)</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+        <odeComponent>
+          <odePageId>page-1777971611391-5w6vfv3st</odePageId>
+          <odeBlockId>block-1777972305994-hxvo8khe8</odeBlockId>
+          <odeIdeviceId>idevice-1777972589790-2g7gexbf8</odeIdeviceId>
+          <odeIdeviceTypeName>complete</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="completa-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1777972589790-2g7gexbf8" data-evaluationb="false" data-evaluationid="138f01f7-79f0-4119-b267-3745d89f82ba"></div><div class="completa-feedback-game"></div><div class="completa-instructions"><p>Complete the sentences with the correct word:</p></div><div class="completa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D1%FD%FF%E2%FE%F7%E6%F7%B2%E6%FA%F7%B2%E1%F7%FC%E6%F7%FC%F1%F7%E1%B2%E5%FB%E6%FA%B2%E6%FA%F7%B2%F1%FD%E0%E0%F7%F1%E6%B2%E5%FD%E0%F6%A8%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%C6%F7%EA%E6%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%A3%BC%B7%A0%A2%DC%F7%E4%F7%E0%B7%A0%A2%D2%D2%E1%FA%F3%E0%F7%D2%D2%B7%A0%A2%EB%FD%E7%E0%B7%A0%A2%E2%F7%E0%E1%FD%FC%F3%FE%B7%A0%A2%FB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B7%A0%A2%FD%FC%FE%FB%FC%F7%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A0%BC%B7%A0%A2%CB%FD%E7%E0%B7%A0%A2%D2%D2%E2%F3%E1%E1%E5%FD%E0%F6%D2%D2%B7%A0%A2%FF%E7%E1%E6%B7%A0%A2%F0%F7%B7%A0%A2%E1%F7%F1%E0%F7%E6%BC%B7%A0%A2%D6%FD%FC%B7%A0%A5%E6%B7%A0%A2%E6%F7%FE%FE%B7%A0%A2%F3%FC%EB%FD%FC%F7%B7%A0%A3%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A1%BC%B7%A0%A2%D6%FD%FC%B7%A0%A5%E6%B7%A0%A2%E6%F3%FE%F9%B7%A0%A2%E6%FD%B7%A0%A2%F3%B7%A0%A2%D2%D2%E1%E6%E0%F3%FC%F5%F7%E0%D2%D2%B7%A0%A2%FD%FC%B7%A0%A2%E6%FA%F7%B7%A0%A2%FB%FC%E6%F7%E0%FC%F7%E6%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A6%BC%B7%A0%A2%CB%FD%E7%E0%B7%A0%A2%F3%F6%F6%E0%F7%E1%E1%B7%A0%A2%F3%FC%F6%B7%A0%A2%E2%FA%FD%FC%F7%B7%A0%A2%FC%E7%FF%F0%F7%E0%B7%A0%A2%F3%E0%F7%B7%A0%A2%D2%D2%E2%E0%FB%E4%F3%E6%F7%D2%D2%B7%A0%A2%FB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A7%BC%B7%A0%A2%D3%FE%E5%F3%EB%E1%B7%A0%A2%E6%F7%FE%FE%B7%A0%A2%F3%FC%B7%A0%A2%F3%F6%E7%FE%E6%B7%A0%A2%FB%F4%B7%A0%A2%E1%FD%FF%F7%E6%FA%FB%FC%F5%B7%A0%A2%FD%FC%FE%FB%FC%F7%B7%A0%A2%F6%FD%F7%E1%FC%B7%A0%A5%E6%B7%A0%A2%F4%F7%F7%FE%B7%A0%A2%D2%D2%E1%F3%F4%F7%D2%D2%BC%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%C1%F3%E4%F7%B2%E1%F1%FD%E0%F7%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E1%E6%E0%FB%F1%E6%D1%FA%F7%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%C1%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E5%FD%E0%F6%E1%D7%E0%E0%FD%E0%E1%B0%A8%B0%B0%BE%B0%F3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%B0%A8%A1%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D7%E0%E0%FD%E0%B0%A8%A0%A2%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%DE%FB%FF%FB%E6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A3%A1%AA%F4%A2%A3%F4%A5%BF%A5%AB%F4%A2%BF%A6%A3%A3%AB%BF%F0%A0%A4%A5%BF%A1%A5%A6%A7%F6%AA%AB%F4%AA%A0%F0%F3%B0%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%B0%BE%B0%F4%FD%FC%E6%D1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A5%AB%A5%A0%A7%AA%AB%A5%AB%A2%BF%A0%F5%A5%F5%F7%EA%F0%F4%AA%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E2%FE%EB%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%D7%FC%E6%F7%E0%B2%E6%FA%F7%B2%F3%F1%F1%F7%E1%E1%B2%F1%FD%F6%F7%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%C6%FA%F7%B2%F3%F1%F1%F7%E1%E1%B2%F1%FD%F6%F7%B2%FB%E1%B2%FC%FD%E6%B2%F1%FD%E0%E0%F7%F1%E6%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B0%D5%F3%FF%F7%B2%DD%E4%F7%E0%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B0%D1%FD%FD%FE%B3%B2%C6%FA%F7%B2%F1%FE%E7%F7%B2%FB%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D3%F1%F1%F7%E1%E1%B2%F1%FD%F6%F7%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%D1%FE%FB%F1%F9%B2%FA%F7%E0%F7%B2%E6%FD%B2%E2%FE%F3%EB%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%DA%FB%E6%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C1%F1%FD%E0%F7%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C5%F7%FB%F5%FA%E6%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F7%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F7%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%FB%FF%F7%B2%DE%FB%FF%FB%E6%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%DE%FB%F4%F7%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%D4%E7%FE%FE%B2%C1%F1%E0%F7%F7%FC%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%D7%EA%FB%E6%B2%D4%E7%FE%FE%B2%C1%F1%E0%F7%F7%FC%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DC%E7%FF%F0%F7%E0%B2%FD%F4%B2%E3%E7%F7%E1%E6%FB%FD%FC%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B0%C0%FB%F5%FA%E6%B3%B2%EE%B2%D7%EA%F1%F7%FE%FE%F7%FC%E6%B3%B2%EE%B2%D5%E0%F7%F3%E6%B3%B2%EE%B2%C4%F7%E0%EB%B2%F5%FD%FD%F6%B3%B2%EE%B2%C2%F7%E0%F4%F7%F1%E6%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B0%DB%E6%B2%E5%F3%E1%B2%FC%FD%E6%B2%E6%FA%F3%E6%B3%B2%EE%B2%DB%FC%F1%FD%E0%E0%F7%F1%E6%B3%B2%EE%B2%DC%FD%E6%B2%F1%FD%E0%E0%F7%F1%E6%B3%B2%EE%B2%C1%FD%E0%E0%EB%B3%B2%EE%B2%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%CB%FD%E7%B2%FC%F7%F7%F6%B2%F3%E6%B2%FE%F7%F3%E1%E6%B2%B7%E1%B7%B2%FD%F4%B2%F1%FD%E0%E0%F7%F1%E6%B2%F3%FC%E1%E5%F7%E0%E1%B2%E6%FD%B2%F5%F7%E6%B2%E6%FA%F7%B2%FB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%BC%B2%C2%FE%F7%F3%E1%F7%B2%E6%E0%EB%B2%F3%F5%F3%FB%FC%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%C2%FE%F7%F3%E1%F7%B2%E1%E6%F3%E0%E6%B2%E6%FA%F7%B2%F5%F3%FF%F7%B2%F0%F7%F4%FD%E0%F7%B2%E1%F3%E4%FB%FC%F5%B2%EB%FD%E7%E0%B2%E1%F1%FD%E0%F7%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%C6%FA%F7%B2%E1%F1%FD%E0%F7%B2%F1%F3%FC%B5%E6%B2%F0%F7%B2%E1%F3%E4%F7%F6%B2%F0%F7%F1%F3%E7%E1%F7%B2%E6%FA%FB%E1%B2%E2%F3%F5%F7%B2%FB%E1%B2%FC%FD%E6%B2%E2%F3%E0%E6%B2%FD%F4%B2%F3%B2%C1%D1%DD%C0%DF%B2%E2%F3%F1%F9%F3%F5%F7%BC%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%D3%FC%E1%E5%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E1%F3%E4%F7%B2%E6%FA%F7%B2%E1%F1%FD%E0%F7%B2%FD%FC%F1%F7%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E1%F3%E4%F7%B2%FD%FC%F1%F7%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%E0%B2%E1%F1%FD%E0%F7%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FA%FD%E0%E1%FA%FB%E2%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%CB%FD%E7%E0%B2%E1%F1%FD%E0%F7%B2%E5%FB%FE%FE%B2%F0%F7%B2%E1%F3%E4%F7%F6%B2%F3%F4%E6%F7%E0%B2%F7%F3%F1%FA%B2%E3%E7%F7%E1%E6%FB%FD%FC%BC%B2%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E2%FE%F3%EB%B2%FD%FC%F1%F7%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%CB%FD%E7%E0%B2%E1%F1%FD%E0%F7%B2%E5%FB%FE%FE%B2%F0%F7%B2%F3%E7%E6%FD%FF%F3%E6%FB%F1%F3%FE%FE%EB%B2%E1%F3%E4%F7%F6%B2%F3%F4%E6%F7%E0%B2%F7%F3%F1%FA%B2%E3%E7%F7%E1%E6%FB%FD%FC%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%E1%F3%E4%F7%B2%E6%FA%F7%B2%E1%F1%FD%E0%F7%B2%F3%E1%B2%FF%F3%FC%EB%B2%E6%FB%FF%F7%E1%B2%F3%E1%B2%EB%FD%E7%B2%E5%F3%FC%E6%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%C6%FA%F7%B2%FE%F3%E1%E6%B2%E1%F1%FD%E0%F7%B2%E1%F3%E4%F7%F6%B2%FB%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%FD%E7%B2%FA%F3%E4%F7%B2%F3%FE%E0%F7%F3%F6%EB%B2%F6%FD%FC%F7%B2%E6%FA%FB%E1%B2%F3%F1%E6%FB%E4%FB%E6%EB%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%F6%FD%B2%E6%FA%FB%E1%B2%F3%F1%E6%FB%E4%FB%E6%EB%B2%F3%E1%B2%FF%F3%FC%EB%B2%E6%FB%FF%F7%E1%B2%F3%E1%B2%EB%FD%E7%B2%E5%F3%FC%E6%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%FE%FD%E1%F7%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%E6%FB%FD%FC%B0%BE%B0%FF%E1%F5%C6%E0%EB%B0%A8%B0%C6%E0%EB%B2%F3%F5%F3%FB%FC%B3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FA%F7%F1%F9%B0%BE%B0%FF%E1%F5%D7%FC%F6%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%B2%F5%FD%E6%B2%B7%E1%B2%E0%FB%F5%FA%E6%B2%F3%FC%E1%E5%F7%E0%E1%B2%F3%FC%F6%B2%B7%F6%B2%F7%E0%E0%FD%E0%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%C6%FB%FF%F7%B2%FD%E4%F7%E0%BC%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%D7%FC%F6%B0%A8%B0%CB%FD%E7%B2%F1%FD%FF%E2%FE%F7%E6%F7%F6%B2%E6%FA%F7%B2%F3%F1%E6%FB%E4%FB%E6%EB%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%DB%FC%F1%FD%FF%E2%FE%F7%E6%F7%B2%F3%F1%E6%FB%E4%FB%E6%EB%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%EB%A8%B2%C2%F3%E1%E1%F7%F6%BC%B2%C1%F1%FD%E0%F7%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%EB%A8%B2%DC%FD%E6%B2%E2%F3%E1%E1%F7%F6%BC%B2%C1%F1%FD%E0%F7%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F7%B0%EF%EF</div><div class="completa-text-game js-hidden"><p>1. Never @@share@@ your personal information online.</p>
+<p>2. Your @@password@@ must be secret. Don't tell anyone!</p>
+<p>3. Don't talk to a @@stranger@@ on the internet.</p>
+<p>4. Your address and phone number are @@private@@ information.</p>
+<p>5. Always tell an adult if something online doesn't feel @@safe@@.</p></div><div class="cmpt-bns js-hidden">Your browser is not compatible with this tool.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777971611391-5w6vfv3st</odePageId>
+      <odeBlockId>block-1777972778395-dzl8605ax</odeBlockId>
+      <blockName>True or false</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777971611391-5w6vfv3st</odePageId>
+          <odeBlockId>block-1777972778395-dzl8605ax</odeBlockId>
+          <odeIdeviceId>idevice-1777972778393-4fxbekxa1</odeIdeviceId>
+          <odeIdeviceTypeName>trueorfalse</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-trueorfalse-container">
+  
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1777972778393-4fxbekxa1" data-evaluationb="false" data-evaluationid=""></div>
+        <div class="TOFP-instructions"><p>Are these sentences True or False?</p></div>
+        <div class="TOFP-MainContainer" data-instance="idevice-1777972778393-4fxbekxa1" id="tofPMainContainer-idevice-1777972778393-4fxbekxa1">
+            <div class="TOFP-GameContainer" id="tofPGameContainer-idevice-1777972778393-4fxbekxa1">
+                <div class="TOFP-GameScoreBoard TOFP-EHidden">
+                    <div class="TOFP-TimeNumber">
+                        <strong><span class="sr-av">Time per question:</span></strong>
+                        <p id="tofPPTime-idevice-1777972778393-4fxbekxa1" class="TOFP-PTime">00:00:</p>
+                    </div>
+                </div>
+                <div class="TOFP-MessgeDiv" id="tofPMessageDiv-idevice-1777972778393-4fxbekxa1">
+                    <div class="TOFP-Message" id="tofPMessage-idevice-1777972778393-4fxbekxa1"></div>
+                </div>
+                <div class="TOFP-StartGameDiv TOFP-EHidden" id="tofPStartGameDiv-idevice-1777972778393-4fxbekxa1">
+                    <button  id="tofPStartGame-idevice-1777972778393-4fxbekxa1" type="button" class="btn btn-primary">Click here to start</button>
+                </div>
+                <div class="TOFP-Multimedia " id="tofPMultimedia-idevice-1777972778393-4fxbekxa1">
+                </div>
+                <div class="TOFP-CheckTestDiv TOFP-EHidden" id="tofPCheckTestDiv-idevice-1777972778393-4fxbekxa1">
+                    <button id="tofPCheckTest-idevice-1777972778393-4fxbekxa1" type="button" class="btn btn-primary">Check</button>
+                    <button id="tofRebootTest-idevice-1777972778393-4fxbekxa1" type="button" class="btn btn-primary TOFP-EHidden">Try again!</button>
+                </div>
+        </div> 
+        <div class="Games-BottonContainer">
+            <div class="Games-GetScore">
+                <input id="tofPSendScore-idevice-1777972778393-4fxbekxa1" type="button" value="Save score" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+            </div>
+        </div>
+        <div class="TOFP-After"></div>
+        <div class="questionsMedia" style="display:none"></div>
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1777972778393-4fxbekxa1","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>Are these sentences True or False?</p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Click here to start","msgTime":"Time per question","msgNoImage":"No picture question","msgScoreScorm":"The score can't be saved because this page is not part of a SCORM package.","msgEndGameScore":"Please start the game before saving your score.","msgOnlySaveScore":"You can only save the score once!","msgOnlySave":"You can only save once","msgYouScore":"Your score","msgAuthor":"Authorship","msgOnlySaveAuto":"Your score will be saved after each question. You can only play once.","msgSaveAuto":"Your score will be automatically saved after each question.","msgSeveralScore":"You can save the score as many times as you want","msgYouLastScore":"The last score saved is","msgActityComply":"You have already done this activity.","msgPlaySeveralTimes":"You can do this activity as many times as you want","msgUncompletedActivity":"Incomplete activity","msgSuccessfulActivity":"Activity: Passed. Score: %s","msgUnsuccessfulActivity":"Activity: Not passed. Score: %s","msgTypeGame":"True or false","msgFeedback":"Feedback","msgSuggestion":"Suggestion","msgSolution":"Solution","msgQuestion":"Question","msgTrue":"True","msgFalse":"False","msgOk":"Correct","msgKO":"Incorrect","msgShow":"Show","msgHide":"Hide","msgCheck":"Check","msgReboot":"Try again!","msgScore":"Score","msgWeight":"Weight","msgNext":"Next","msgPrevious":"Previous"},"questionsRandom":false,"percentageQuestions":100,"isTest":false,"time":0,"questionsGame":[{"question":"<p>You can share your home address with your online friends. </p>","feedback":"","suggestion":"","solution":0},{"question":"<p>A strong password uses letters, numbers and symbols. </p>","feedback":"","suggestion":"","solution":1},{"question":"<p>Cyberbullying is only a problem for teenagers. </p>","feedback":"","suggestion":"","solution":0},{"question":"<p>You should tell an adult if someone online makes you feel uncomfortable.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>It is safe to download files from any website. </p>","feedback":"","suggestion":"","solution":0}],"isScorm":0,"textButtonScorm":"Save score","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"","showSlider":false,"ideviceId":"idevice-1777972778393-4fxbekxa1"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777971611391-5w6vfv3st</odePageId>
+      <odeBlockId>block-1777972976730-cwq54obmk</odeBlockId>
+      <blockName>🏠 Digital task — Microsoft Teams</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777971611391-5w6vfv3st</odePageId>
+          <odeBlockId>block-1777972976730-cwq54obmk</odeBlockId>
+          <odeIdeviceId>idevice-1777972976728-sdlg89vl3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📲 TASK FOR HOMEWORK:</p>
+<p>Complete the activity on Microsoft Teams (in the «Being Safe Online» channel):</p>
+<p>→ Answer the poll: «How do you use the internet at home?»</p>
+<p>→ Write 2 sentences about internet safety in the chat. Use: «I think... / You should... / Don't...»  Deadline: before Session 2.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777972976728-sdlg89vl3","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>📲 TASK FOR HOMEWORK:</p>\n<p>Complete the activity on Microsoft Teams (in the «Being Safe Online» channel):</p>\n<p>→ Answer the poll: «How do you use the internet at home?»</p>\n<p>→ Write 2 sentences about internet safety in the chat. Use: «I think... / You should... / Don't...»  Deadline: before Session 2.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777971626538-z7890faaj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Session 2 - Dangers online</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Session 2 - Dangers online</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777971626538-z7890faaj</odePageId>
+      <odeBlockId>block-1777973049929-dlqhcuw9v</odeBlockId>
+      <blockName>Overview</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777971626538-z7890faaj</odePageId>
+          <odeBlockId>block-1777973049929-dlqhcuw9v</odeBlockId>
+          <odeIdeviceId>idevice-1777973049927-ecbhwpfi2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎯 Session goals<br />•       Identify the main dangers on the internet.</p>
+<p>•       Learn vocabulary about online risks.</p>
+<p>•       Practise reading and listening in English.</p>
+<p> </p>
+<p>♿  DUA: All texts are also available in audio (text-to-speech). Use the accessibility icon in your browser. Work at your own pace — there is no time limit for the activities.</p>
+<p>📚 Read and learn: Main dangers online</p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 49.9381%;">
+<p>⚠️ CYBERBULLYING</p>
+<p>Cyberbullying means hurting, threatening or making someone feel bad online. It can happen by text, video, photo or social media.</p>
+<p><strong>What to do: Don't reply. Block the person. Tell a trusted adult.</strong></p>
+</td>
+<td style="width: 49.9381%;">
+<p>🎣 PHISHING</p>
+<p>Phishing is when someone pretends to be a real company or person to steal your personal information, like passwords or bank details.</p>
+<p><strong>What to do: Don't click suspicious links. Check the email address. Ask an adult.</strong></p>
+</td>
+</tr>
+<tr>
+<td style="width: 49.9381%;">
+<p>👤 GROOMING</p>
+<p>Grooming is when an adult contacts a child online to gain their trust and then try to harm them. It can happen in games, chats or social media.</p>
+<p><strong>What to do: Never meet online contacts in real life. Tell a trusted adult immediately.</strong></p>
+</td>
+<td style="width: 49.9381%;">
+<p>📵 ADDICTION</p>
+<p>Spending too much time online can affect your sleep, school work and relationships. Setting screen time limits is important.</p>
+<p><strong>What to do: Set a timer. Take breaks. Do outdoor activities every day.</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>📺 Watch and classify</p>
+<p style="text-align: center;"><iframe width="560" height="315" src="https://www.youtube.com/embed/KIQUywRUQXQ?si=4hDuqKbvNauzjpme" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: left;"></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777973049927-ecbhwpfi2","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>🎯 Session goals<br />•       Identify the main dangers on the internet.</p>\n<p>•       Learn vocabulary about online risks.</p>\n<p>•       Practise reading and listening in English.</p>\n<p> </p>\n<p>♿  DUA: All texts are also available in audio (text-to-speech). Use the accessibility icon in your browser. Work at your own pace — there is no time limit for the activities.</p>\n<p>📚 Read and learn: Main dangers online</p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9381%;\">\n<p>⚠️ CYBERBULLYING</p>\n<p>Cyberbullying means hurting, threatening or making someone feel bad online. It can happen by text, video, photo or social media.</p>\n<p><strong>What to do: Don't reply. Block the person. Tell a trusted adult.</strong></p>\n</td>\n<td style=\"width: 49.9381%;\">\n<p>🎣 PHISHING</p>\n<p>Phishing is when someone pretends to be a real company or person to steal your personal information, like passwords or bank details.</p>\n<p><strong>What to do: Don't click suspicious links. Check the email address. Ask an adult.</strong></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 49.9381%;\">\n<p>👤 GROOMING</p>\n<p>Grooming is when an adult contacts a child online to gain their trust and then try to harm them. It can happen in games, chats or social media.</p>\n<p><strong>What to do: Never meet online contacts in real life. Tell a trusted adult immediately.</strong></p>\n</td>\n<td style=\"width: 49.9381%;\">\n<p>📵 ADDICTION</p>\n<p>Spending too much time online can affect your sleep, school work and relationships. Setting screen time limits is important.</p>\n<p><strong>What to do: Set a timer. Take breaks. Do outdoor activities every day.</strong></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p>📺 Watch and classify</p>\n<p style=\"text-align: center;\"><iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/KIQUywRUQXQ?si=4hDuqKbvNauzjpme\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: left;\"></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777971626538-z7890faaj</odePageId>
+      <odeBlockId>block-1777973247213-uvb1lipqv</odeBlockId>
+      <blockName>Safe or dangerous</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777971626538-z7890faaj</odePageId>
+          <odeBlockId>block-1777973247213-uvb1lipqv</odeBlockId>
+          <odeIdeviceId>idevice-1777973247211-v5n1b9zhl</odeIdeviceId>
+          <odeIdeviceTypeName>dragdrop</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="dragdrop-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1777973247211-v5n1b9zhl" data-evaluationb="false" data-evaluationid="138f01f7-79f0-4119-b267-3745d89f82ba"></div><div class="dragdrop-instructions gameQP-instructions"><p>Classify these actions as Dangers or Safe behaviours.</p></div><div class="dragdrop-DataGame js-hidden">{"typeGame":"dragdrop","author":"","randomCards":true,"instructions":"<p>Classify these actions as Dangers or Safe behaviours.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"definition":"Sharing your home address","url":"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.08.png","author":"","alt":"","audio":""},{"definition":"Clicking on a prize button","url":"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.08.png","author":"","alt":"","audio":""},{"definition":"Befriending a stranger","url":"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.08.png","author":"","alt":"","audio":""},{"definition":"Sending pictures of yourself","url":"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.08.png","author":"","alt":"","audio":""},{"definition":"Using a strong secret password","url":"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.19.png","author":"","alt":"","audio":""},{"definition":"Saying if anything feels wrong","url":"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.19.png","author":"","alt":"","audio":""},{"definition":"Blocking unkind people","url":"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.19.png","author":"","alt":"","audio":""},{"definition":"Asking permission to download","url":"{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.19.png","author":"","alt":"","audio":""}],"isScorm":0,"textButtonScorm":"Save score","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":0,"mode":1,"typeDrag":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"138f01f7-79f0-4119-b267-3745d89f82ba","id":"idevice-1777973247211-v5n1b9zhl","msgs":{"msgSubmit":"Submit","msgClue":"Cool! The clue is:","msgCodeAccess":"Access code","msgPlayStart":"Click here to play","msgScore":"Score","msgWeight":"Weight","msgErrors":"Errors","msgHits":"Hits","msgMinimize":"Minimize","msgMaximize":"Maximize","msgFullScreen":"Full Screen","msgExitFullScreen":"Exit Full Screen","msgNoImage":"No picture question","msgEndGameScore":"Please start the game before saving your score.","msgScoreScorm":"The score can't be saved because this page is not part of a SCORM package.","msgOnlySaveScore":"You can only save the score once!","msgOnlySave":"You can only save once","msgInformation":"Information","msgYouScore":"Your score","msgAuthor":"Authorship","msgOnlySaveAuto":"Your score will be saved after each question. You can only play once.","msgSaveAuto":"Your score will be automatically saved after each question.","msgSeveralScore":"You can save the score as many times as you want","msgYouLastScore":"The last score saved is","msgActityComply":"You have already done this activity.","msgPlaySeveralTimes":"You can do this activity as many times as you want","msgClose":"Close","msgAudio":"Audio","msgNumQuestions":"Number of cards","msgTryAgain":"You need at least %s% of correct answers to get the information. Please try again.","msgEndGameM":"You finished the game. Your score is %s.","msgUncompletedActivity":"Incomplete activity","msgSuccessfulActivity":"Activity: Passed. Score: %s","msgUnsuccessfulActivity":"Activity: Not passed. Score: %s","msgTypeGame":"Drag and drop","msgCheck":"Check","msgRestart":"Restart"}}</div><a href="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.08.png" class="js-hidden dragdrop-LinkImages">0</a><a href="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.08.png" class="js-hidden dragdrop-LinkImages">1</a><a href="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.08.png" class="js-hidden dragdrop-LinkImages">2</a><a href="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.08.png" class="js-hidden dragdrop-LinkImages">3</a><a href="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.19.png" class="js-hidden dragdrop-LinkImages">4</a><a href="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.19.png" class="js-hidden dragdrop-LinkImages">5</a><a href="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.19.png" class="js-hidden dragdrop-LinkImages">6</a><a href="{{context_path}}/content/resources/Captura de pantalla 2026-05-05 a las 11.32.19.png" class="js-hidden dragdrop-LinkImages">7</a><div class="dragdrop-bns js-hidden">Your browser is not compatible with this tool.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777971626538-z7890faaj</odePageId>
+      <odeBlockId>block-1777973861248-cemxkqglh</odeBlockId>
+      <blockName>Mini-test</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777971626538-z7890faaj</odePageId>
+          <odeBlockId>block-1777973861248-cemxkqglh</odeBlockId>
+          <odeIdeviceId>idevice-1777973861245-0va2vyhqe</odeIdeviceId>
+          <odeIdeviceTypeName>quick-questions-multiple-choice</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="selecciona-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1777973861245-0va2vyhqe" data-evaluationb="false" data-evaluationid="138f01f7-79f0-4119-b267-3745d89f82ba"></div><div class="selecciona-instructions SLCNP-instructions"><p>Choose the right answers and click on the Check button.</p></div><div class="selecciona-version js-hidden">undefined</div><div class="selecciona-feedback-game"></div><div class="selecciona-DataGame js-hidden">%E9%B0%F3%E1%FB%F5%FC%F3%E6%E7%E0%F3%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C1%F7%FE%F7%F1%F1%FB%FD%FC%F3%B0%BE%B0%F7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%F6%C4%FB%F6%F7%FD%B0%A8%B0%B0%BE%B0%E1%E6%F3%E0%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%D7%EA%F7%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%D1%FA%FD%FD%E1%F7%B7%A0%A2%E6%FA%F7%B7%A0%A2%E0%FB%F5%FA%E6%B7%A0%A2%F3%FC%E1%E5%F7%E0%E1%B7%A0%A2%F3%FC%F6%B7%A0%A2%F1%FE%FB%F1%F9%B7%A0%A2%FD%FC%B7%A0%A2%E6%FA%F7%B7%A0%A2%D1%FA%F7%F1%F9%B7%A0%A2%F0%E7%E6%E6%FD%FC%BC%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%D1%FA%FD%FD%E1%F7%B2%E6%FA%F7%B2%E0%FB%F5%FA%E6%B2%F3%FC%E1%E5%F7%E0%E1%B2%F3%FC%F6%B2%F1%FE%FB%F1%F9%B2%FD%FC%B2%E6%FA%F7%B2%D1%FA%F7%F1%F9%B2%F0%E7%E6%E6%FD%FC%BC%B2%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E2%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F3%FC%E1%E5%F7%E0%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E7%E1%F7%DE%FB%E4%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%FC%E7%FF%F0%F7%E0%DE%FB%E4%F7%E1%B0%A8%A1%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E1%F7%FE%F7%F1%E6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A1%BE%B0%E6%EB%E2%F7%C1%F7%FE%F7%F1%E6%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FA%FB%E6%B0%A8%BF%A3%BE%B0%F7%E0%E0%FD%E0%B0%A8%BF%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%C5%FA%F3%E6%B2%FB%E1%B2%F1%EB%F0%F7%E0%F0%E7%FE%FE%EB%FB%FC%F5%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%DA%F7%FE%E2%FB%FC%F5%B2%E1%FD%FF%F7%FD%FC%F7%B2%FD%FC%FE%FB%FC%F7%B0%BE%B0%DA%E7%E0%E6%FB%FC%F5%B2%FD%E0%B2%E6%FA%E0%F7%F3%E6%F7%FC%FB%FC%F5%B2%E1%FD%FF%F7%FD%FC%F7%B2%FD%FC%FE%FB%FC%F7%B0%BE%B0%C2%FE%F3%EB%FB%FC%F5%B2%E4%FB%F6%F7%FD%B2%F5%F3%FF%F7%E1%B2%FD%FC%FE%FB%FC%F7%B0%BE%B0%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D0%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A1%BE%B0%E6%EB%E2%F7%C1%F7%FE%F7%F1%E6%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FA%FB%E6%B0%A8%BF%A3%BE%B0%F7%E0%E0%FD%E0%B0%A8%BF%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%C5%FA%F3%E6%B2%E1%FA%FD%E7%FE%F6%B2%EB%FD%E7%B2%F6%FD%B2%FB%F4%B2%F3%B2%E1%E6%E0%F3%FC%F5%F7%E0%B2%F1%FD%FC%E6%F3%F1%E6%E1%B2%EB%FD%E7%B2%FB%FC%B2%F3%B2%F5%F3%FF%F7%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%D5%FB%E4%F7%B2%E6%FA%F7%FF%B2%EB%FD%E7%E0%B2%E2%FA%FD%FC%F7%B2%FC%E7%FF%F0%F7%E0%B0%BE%B0%DF%F7%F7%E6%B2%E6%FA%F7%FF%B2%FC%F7%F3%E0%B2%EB%FD%E7%E0%B2%FA%FD%E7%E1%F7%B0%BE%B0%DB%F5%FC%FD%E0%F7%B2%E6%FA%F7%FF%B2%F3%FC%F6%B2%E6%F7%FE%FE%B2%F3%FC%B2%F3%F6%E7%FE%E6%B0%BE%B0%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D1%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%BE%E9%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A1%BE%B0%E6%EB%E2%F7%C1%F7%FE%F7%F1%E6%B0%A8%A2%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%FA%FB%E6%B0%A8%BF%A3%BE%B0%F7%E0%E0%FD%E0%B0%A8%BF%A3%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%B0%BE%B0%E1%FD%E7%FC%F6%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%FF%F3%F5%F7%C4%FB%F6%F7%FD%B0%A8%A3%BE%B0%FB%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F4%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%E6%C1%FB%FE%F7%FC%E6%C4%FB%F6%F7%FD%B0%A8%A2%BE%B0%F7%C6%F7%EA%E6%B0%A8%B0%B0%BE%B0%E3%E7%F7%EA%E6%FB%FD%FC%B0%A8%B0%C5%FA%F3%E6%B2%FB%E1%B2%E2%FA%FB%E1%FA%FB%FC%F5%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%D3%B2%F6%F3%FC%F5%F7%E0%FD%E7%E1%B2%E5%F3%E6%F7%E0%B2%E1%E2%FD%E0%E6%B0%BE%B0%C6%E0%FB%F1%F9%FB%FC%F5%B2%E2%F7%FD%E2%FE%F7%B2%E6%FD%B2%E1%E6%F7%F3%FE%B2%E6%FA%F7%FB%E0%B2%FB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%BE%B0%D3%B2%E6%EB%E2%F7%B2%FD%F4%B2%FD%FC%FE%FB%FC%F7%B2%F5%F3%FF%F7%B0%BE%B0%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%D0%B0%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%C1%FA%FD%E5%B0%A8%A1%A7%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%C1%F3%E4%F7%B2%E1%F1%FD%E0%F7%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%FB%E6%FE%F7%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F5%F3%FF%F7%DF%FD%F6%F7%B0%A8%A3%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%FD%E0%F6%F7%E0%B0%A8%A2%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A1%BC%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%F3%E7%F6%FB%FD%D4%F7%F7%F6%D0%F3%F1%FA%B0%A8%F4%F3%FE%E1%F7%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A3%A1%AA%F4%A2%A3%F4%A5%BF%A5%AB%F4%A2%BF%A6%A3%A3%AB%BF%F0%A0%A4%A5%BF%A1%A5%A6%A7%F6%AA%AB%F4%AA%A0%F0%F3%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A5%AB%A5%A1%AA%A4%A3%A0%A6%A7%BF%A2%E4%F3%A0%E4%EB%FA%E3%F7%B0%BE%B0%F5%FE%FD%F0%F3%FE%C6%FB%FF%F7%B0%A8%A2%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%F3%F6%EB%B0%A8%B0%C0%F7%F3%F6%EB%AD%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%D1%FE%FB%F1%F9%B2%FA%F7%E0%F7%B2%E6%FD%B2%E1%E6%F3%E0%E6%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%C1%E7%F0%FF%FB%E6%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%D7%FC%E6%F7%E0%B2%E6%FA%F7%B2%F3%F1%F1%F7%E1%E1%B2%F1%FD%F6%F7%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%C6%FA%F7%B2%F3%F1%F1%F7%E1%E1%B2%F1%FD%F6%F7%B2%FB%E1%B2%FC%FD%E6%B2%F1%FD%E0%E0%F7%F1%E6%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B0%D5%F3%FF%F7%B2%DD%E4%F7%E0%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B0%D1%FD%FD%FE%B3%B2%C6%FA%F7%B2%F1%FE%E7%F7%B2%FB%E1%A8%B0%BE%B0%FF%E1%F5%DC%F7%E5%D5%F3%FF%F7%B0%A8%B0%D1%FE%FB%F1%F9%B2%FA%F7%E0%F7%B2%F4%FD%E0%B2%F3%B2%FC%F7%E5%B2%F5%F3%FF%F7%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%CB%FD%E7%B2%FA%F3%E4%F7%B2%F5%FD%E6%B2%B7%A3%B2%FA%FB%E6%E1%B2%F3%FC%F6%B2%B7%A0%B2%FF%FB%E1%E1%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D3%F1%F1%F7%E1%E1%B2%F1%FD%F6%F7%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%C2%FE%F3%EB%B2%D3%F5%F3%FB%FC%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D3%F1%F1%F7%E1%E1%B2%F1%FD%F6%F7%B2%E0%F7%E3%E7%FB%E0%F7%F6%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B0%D1%FD%FD%FE%B3%B2%C6%FA%F7%B2%FB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B2%EB%FD%E7%B2%E5%F7%E0%F7%B2%FE%FD%FD%F9%FB%FC%F5%B2%F4%FD%E0%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%D1%FE%FB%F1%F9%B2%FA%F7%E0%F7%B2%E6%FD%B2%E2%FE%F3%EB%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%DA%FB%E6%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C1%F1%FD%E0%F7%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C5%F7%FB%F5%FA%E6%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F7%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F7%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%FB%FF%F7%B2%E2%F7%E0%B2%E3%E7%F7%E1%E6%FB%FD%FC%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%DE%FB%F4%F7%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%D4%E7%FE%FE%B2%C1%F1%E0%F7%F7%FC%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%D7%EA%FB%E6%B2%D4%E7%FE%FE%B2%C1%F1%E0%F7%F7%FC%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DC%E7%FF%F0%F7%E0%B2%FD%F4%B2%E3%E7%F7%E1%E6%FB%FD%FC%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%DC%FD%B2%E2%FB%F1%E6%E7%E0%F7%B2%E3%E7%F7%E1%E6%FB%FD%FC%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B0%D1%FD%FD%FE%B3%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%C6%B0%A8%B0%CB%FD%E7%B2%FE%FD%E1%E6%B2%A1%A1%A2%B2%E2%FD%FB%FC%E6%E1%B0%BE%B0%FF%E1%F5%DE%FD%E1%F7%DE%FB%E4%F7%B0%A8%B0%CB%FD%E7%B2%FE%FD%E1%E6%B2%FD%FC%F7%B2%FE%FB%F4%F7%B0%BE%B0%FF%E1%F5%DE%FD%E1%E6%DE%FB%E4%F7%E1%B0%A8%B0%CB%FD%E7%B2%FE%FD%E1%E6%B2%F3%FE%FE%B2%EB%FD%E7%E0%B2%FE%FB%E4%F7%E1%B3%B0%BE%B0%FF%E1%F5%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%C3%E7%F7%E1%E6%FB%FD%FC%E1%B2%F1%FD%FF%E2%FE%F7%E6%F7%F6%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B0%C0%FB%F5%FA%E6%B3%B2%EE%B2%D7%EA%F1%F7%FE%FE%F7%FC%E6%B3%B2%EE%B2%D5%E0%F7%F3%E6%B3%B2%EE%B2%C4%F7%E0%EB%B2%F5%FD%FD%F6%B3%B2%EE%B2%C2%F7%E0%F4%F7%F1%E6%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B0%DB%E6%B2%E5%F3%E1%B2%FC%FD%E6%B2%E6%FA%F3%E6%B3%B2%EE%B2%DB%FC%F1%FD%E0%E0%F7%F1%E6%B3%B2%EE%B2%DC%FD%E6%B2%F1%FD%E0%E0%F7%F1%E6%B3%B2%EE%B2%C1%FD%E0%E0%EB%B3%B2%EE%B2%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%DC%FD%E6%DC%F7%E6%E5%FD%E0%F9%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E2%FE%F3%EB%B2%E6%FA%FB%E1%B2%F5%F3%FF%F7%B2%E5%FB%E6%FA%B2%FB%FC%E6%F7%E0%FC%F7%E6%B2%F1%FD%FC%FC%F7%F1%E6%FB%FD%FC%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%C2%FE%F7%F3%E1%F7%B2%E1%E6%F3%E0%E6%B2%E6%FA%F7%B2%F5%F3%FF%F7%B2%F0%F7%F4%FD%E0%F7%B2%E1%F3%E4%FB%FC%F5%B2%EB%FD%E7%E0%B2%E1%F1%FD%E0%F7%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%C6%FA%F7%B2%E1%F1%FD%E0%F7%B2%F1%F3%FC%B5%E6%B2%F0%F7%B2%E1%F3%E4%F7%F6%B2%F0%F7%F1%F3%E7%E1%F7%B2%E6%FA%FB%E1%B2%E2%F3%F5%F7%B2%FB%E1%B2%FC%FD%E6%B2%E2%F3%E0%E6%B2%FD%F4%B2%F3%B2%C1%D1%DD%C0%DF%B2%E2%F3%F1%F9%F3%F5%F7%BC%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C3%E7%F7%E1%E6%FB%FD%FC%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%D1%FA%F7%F1%F9%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E1%F3%E4%F7%B2%E6%FA%F7%B2%E1%F1%FD%E0%F7%B2%FD%FC%F1%F7%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E1%F3%E4%F7%B2%FD%FC%F1%F7%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%E0%B2%E1%F1%FD%E0%F7%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FA%FD%E0%E1%FA%FB%E2%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%CB%FD%E7%E0%B2%E1%F1%FD%E0%F7%B2%E5%FB%FE%FE%B2%F0%F7%B2%E1%F3%E4%F7%F6%B2%F3%F4%E6%F7%E0%B2%F7%F3%F1%FA%B2%E3%E7%F7%E1%E6%FB%FD%FC%BC%B2%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E2%FE%F3%EB%B2%FD%FC%F1%F7%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%CB%FD%E7%E0%B2%E1%F1%FD%E0%F7%B2%E5%FB%FE%FE%B2%F0%F7%B2%F3%E7%E6%FD%FF%F3%E6%FB%F1%F3%FE%FE%EB%B2%E1%F3%E4%F7%F6%B2%F3%F4%E6%F7%E0%B2%F7%F3%F1%FA%B2%E3%E7%F7%E1%E6%FB%FD%FC%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%E1%F3%E4%F7%B2%E6%FA%F7%B2%E1%F1%FD%E0%F7%B2%F3%E1%B2%FF%F3%FC%EB%B2%E6%FB%FF%F7%E1%B2%F3%E1%B2%EB%FD%E7%B2%E5%F3%FC%E6%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%C6%FA%F7%B2%FE%F3%E1%E6%B2%E1%F1%FD%E0%F7%B2%E1%F3%E4%F7%F6%B2%FB%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%FD%E7%B2%FA%F3%E4%F7%B2%F3%FE%E0%F7%F3%F6%EB%B2%F6%FD%FC%F7%B2%E6%FA%FB%E1%B2%F3%F1%E6%FB%E4%FB%E6%EB%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%F6%FD%B2%E6%FA%FB%E1%B2%F3%F1%E6%FB%E4%FB%E6%EB%B2%F3%E1%B2%FF%F3%FC%EB%B2%E6%FB%FF%F7%E1%B2%F3%E1%B2%EB%FD%E7%B2%E5%F3%FC%E6%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%CB%FD%E7%B2%FC%F7%F7%F6%B2%F3%E6%B2%FE%F7%F3%E1%E6%B2%B7%E1%B7%B2%FD%F4%B2%F1%FD%E0%E0%F7%F1%E6%B2%F3%FC%E1%E5%F7%E0%E1%B2%E6%FD%B2%F5%F7%E6%B2%E6%FA%F7%B2%FB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%BC%B2%C2%FE%F7%F3%E1%F7%B2%E6%E0%EB%B2%F3%F5%F3%FB%FC%BC%B0%BE%B0%FF%E1%F5%C4%FB%F6%F7%FD%DB%FC%E6%E0%FD%B0%A8%B0%C4%FB%F6%F7%FD%B2%DB%FC%E6%E0%FD%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%FE%FD%E1%F7%B0%BE%B0%FF%E1%F5%DD%E2%E6%FB%FD%FC%B0%A8%B0%DD%E2%E6%FB%FD%FC%B0%BE%B0%FF%E1%F5%C0%FB%F1%F9%C6%F7%EA%E6%B0%A8%B0%C0%FB%F1%FA%B2%C6%F7%EA%E6%B0%BE%B0%FF%E1%F5%C7%E1%F7%D4%E7%FE%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%F3%FC%F6%B2%FB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B2%E6%FA%F3%E6%B2%E5%FB%FE%FE%B2%F0%F7%B2%E4%F7%E0%EB%B2%E7%E1%F7%F4%E7%FE%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%DE%FD%F3%F6%FB%FC%F5%BC%B2%C2%FE%F7%F3%E1%F7%B2%E5%F3%FB%E6%BC%BC%BC%B0%BE%B0%FF%E1%F5%DD%E0%F6%F7%E0%E1%B0%A8%B0%C2%FE%F7%F3%E1%F7%B2%FD%E0%F6%F7%E0%B2%E6%FA%F7%B2%F3%FC%E1%E5%F7%E0%E1%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%C2%E0%FD%E4%FB%F6%F7%B2%F3%B2%E5%FD%E0%F6%B2%FD%E0%B2%E2%FA%E0%F3%E1%F7%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%DF%FD%E4%F7%B2%FD%FC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%FD%FB%FC%E6%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%DB%FC%F1%FD%FF%E2%FE%F7%E6%F7%B2%F3%F1%E6%FB%E4%FB%E6%EB%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%EB%A8%B2%C2%F3%E1%E1%F7%F6%BC%B2%C1%F1%FD%E0%F7%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%EB%A8%B2%DC%FD%E6%B2%E2%F3%E1%E1%F7%F6%BC%B2%C1%F1%FD%E0%F7%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%DF%E7%FE%E6%FB%E2%FE%F7%B2%D1%FA%FD%FB%F1%F7%B2%C3%E7%FB%E8%B0%EF%EF</div><div class="selecciona-bns js-hidden">Your browser is not compatible with this tool.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777971626538-z7890faaj</odePageId>
+      <odeBlockId>block-1777973970864-ly3s4tmal</odeBlockId>
+      <blockName>📲 Digital task — Liveworksheets</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777971626538-z7890faaj</odePageId>
+          <odeBlockId>block-1777973970864-ly3s4tmal</odeBlockId>
+          <odeIdeviceId>idevice-1777973970863-cwnqel0aw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🖥 DIGITAL ACTIVITY (Liveworksheets):</p>
+<p>Your teacher will share a Liveworksheets link on Teams or the class Aula Virtual.</p>
+<p>Activity: «Online Dangers — Match and classify»</p>
+<p>Complete the activity online. Your results will be sent automatically to your teacher.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777973970863-cwnqel0aw","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>🖥 DIGITAL ACTIVITY (Liveworksheets):</p>\n<p>Your teacher will share a Liveworksheets link on Teams or the class Aula Virtual.</p>\n<p>Activity: «Online Dangers — Match and classify»</p>\n<p>Complete the activity online. Your results will be sent automatically to your teacher.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777971653314-p6n6qxpgt</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Session 3 - Stay safe!</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Session 3 - Stay safe!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777971653314-p6n6qxpgt</odePageId>
+      <odeBlockId>block-1777974030810-grlpkqrke</odeBlockId>
+      <blockName>Overview</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777971653314-p6n6qxpgt</odePageId>
+          <odeBlockId>block-1777974030810-grlpkqrke</odeBlockId>
+          <odeIdeviceId>idevice-1777974030808-9mk9z4942</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎯 Session goals<br />•       Learn rules and tips to be safe online.</p>
+<p>•       Practise giving advice using can / can't and imperatives.</p>
+<p>•       Create a personal digital safety decalogue in English.</p>
+<p> </p>
+<p>♿  DUA: You can listen to the texts using the text-to-speech tool in your browser. If you prefer, you can write your decalogue in Spanish and then translate it with the support of your teacher.</p>
+<p><strong>📚 Read: The 10 Golden Rules for Internet Safety</strong></p>
+<p>1. Never share your full name, address, phone number or school online.<br />2. Use a strong password. Mix letters, numbers and symbols. Never share it.<br />3. Don't talk to strangers online. Only accept contact from people you know in real life.<br />4. Think before you post. Anything you share online can stay there forever.<br />5. Don't open suspicious links, files or emails from people you don't know.<br />6. Tell a trusted adult (parent, teacher) if something online makes you feel uncomfortable or scared.<br />7. Set screen time limits. Rest your eyes and take breaks every hour.<br />8. Check if a website is safe (look for 'https://' and the padlock icon).<br />9. Be kind online. Treat others the way you want to be treated.<br />10. If someone is unkind to you online: don't reply, block them, and tell an adult.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777974030808-9mk9z4942","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>🎯 Session goals<br />•       Learn rules and tips to be safe online.</p>\n<p>•       Practise giving advice using can / can't and imperatives.</p>\n<p>•       Create a personal digital safety decalogue in English.</p>\n<p> </p>\n<p>♿  DUA: You can listen to the texts using the text-to-speech tool in your browser. If you prefer, you can write your decalogue in Spanish and then translate it with the support of your teacher.</p>\n<p><strong>📚 Read: The 10 Golden Rules for Internet Safety</strong></p>\n<p>1. Never share your full name, address, phone number or school online.<br />2. Use a strong password. Mix letters, numbers and symbols. Never share it.<br />3. Don't talk to strangers online. Only accept contact from people you know in real life.<br />4. Think before you post. Anything you share online can stay there forever.<br />5. Don't open suspicious links, files or emails from people you don't know.<br />6. Tell a trusted adult (parent, teacher) if something online makes you feel uncomfortable or scared.<br />7. Set screen time limits. Rest your eyes and take breaks every hour.<br />8. Check if a website is safe (look for 'https://' and the padlock icon).<br />9. Be kind online. Treat others the way you want to be treated.<br />10. If someone is unkind to you online: don't reply, block them, and tell an adult.</p>\n<p><br /></p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777971653314-p6n6qxpgt</odePageId>
+      <odeBlockId>block-1777994820883-m68neb5t3</odeBlockId>
+      <blockName>Fill in the blanks</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777971653314-p6n6qxpgt</odePageId>
+          <odeBlockId>block-1777994820883-m68neb5t3</odeBlockId>
+          <odeIdeviceId>idevice-1777994820881-19o4e03vk</odeIdeviceId>
+          <odeIdeviceTypeName>complete</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="completa-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1777994820881-19o4e03vk" data-evaluationb="false" data-evaluationid="138f01f7-79f0-4119-b267-3745d89f82ba"></div><div class="completa-feedback-game"></div><div class="completa-instructions"><p>Complete the golden rules with the correct word. Word bank: password · adult · kind · strangers · post  </p></div><div class="completa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D1%FD%FF%E2%FE%F7%E6%F7%B2%E6%FA%F7%B2%F5%FD%FE%F6%F7%FC%B2%E0%E7%FE%F7%E1%B2%E5%FB%E6%FA%B2%E6%FA%F7%B2%F1%FD%E0%E0%F7%F1%E6%B2%E5%FD%E0%F6%BC%B2%C5%FD%E0%F6%B2%F0%F3%FC%F9%A8%B2%E2%F3%E1%E1%E5%FD%E0%F6%B2%25%B2%F3%F6%E7%FE%E6%B2%25%B2%F9%FB%FC%F6%B2%25%B2%E1%E6%E0%F3%FC%F5%F7%E0%E1%B2%25%B2%E2%FD%E1%E6%B22%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%C6%F7%EA%E6%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%A3%BC%B7%A0%A2%DC%F7%E4%F7%E0%B7%A0%A2%E1%FA%F3%E0%F7%B7%A0%A2%EB%FD%E7%E0%B7%A0%A2%D2%D2%E2%F3%E1%E1%E5%FD%E0%F6%D2%D2%B7%A0%A2%E5%FB%E6%FA%B7%A0%A2%F3%FC%EB%FD%FC%F7%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A0%BC%B7%A0%A2%D6%FD%FC%B7%A0%A5%E6%B7%A0%A2%E6%F3%FE%F9%B7%A0%A2%E6%FD%B7%A0%A2%D2%D2%E1%E6%E0%F3%FC%F5%F7%E0%E1%D2%D2%B7%A0%A2%FD%FC%FE%FB%FC%F7%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A1%BC%B7%A0%A2%C6%FA%FB%FC%F9%B7%A0%A2%F0%F7%F4%FD%E0%F7%B7%A0%A2%EB%FD%E7%B7%A0%A2%D2%D2%E2%FD%E1%E6%D2%D2%B7%A0%A2%E1%FD%FF%F7%E6%FA%FB%FC%F5%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A6%BC%B7%A0%A2%C6%F7%FE%FE%B7%A0%A2%F3%B7%A0%A2%E6%E0%E7%E1%E6%F7%F6%B7%A0%A2%D2%D2%F3%F6%E7%FE%E6%D2%D2%B7%A0%A2%FB%F4%B7%A0%A2%E1%FD%FF%F7%E6%FA%FB%FC%F5%B7%A0%A2%E5%FD%E0%E0%FB%F7%E1%B7%A0%A2%EB%FD%E7%BC%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%A7%BC%B7%A0%A2%D3%FE%E5%F3%EB%E1%B7%A0%A2%F0%F7%B7%A0%A2%D2%D2%F9%FB%FC%F6%D2%D2%B7%A0%A2%FD%FC%FE%FB%FC%F7%BC%B7%D3%A2%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%C1%F3%E4%F7%B2%E1%F1%FD%E0%F7%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E1%E6%E0%FB%F1%E6%D1%FA%F7%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%C1%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E5%FD%E0%F6%E1%D7%E0%E0%FD%E0%E1%B0%A8%B0%B0%BE%B0%F3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D7%E0%E0%FD%E0%B0%A8%A0%A2%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%DE%FB%FF%FB%E6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A3%A1%AA%F4%A2%A3%F4%A5%BF%A5%AB%F4%A2%BF%A6%A3%A3%AB%BF%F0%A0%A4%A5%BF%A1%A5%A6%A7%F6%AA%AB%F4%AA%A0%F0%F3%B0%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%B0%BE%B0%F4%FD%FC%E6%D1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A5%AB%AB%A6%AA%A0%A2%AA%AA%A3%BF%A3%AB%FD%A6%F7%A2%A1%E4%F9%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E2%FE%EB%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%D7%FC%E6%F7%E0%B2%E6%FA%F7%B2%F3%F1%F1%F7%E1%E1%B2%F1%FD%F6%F7%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%C6%FA%F7%B2%F3%F1%F1%F7%E1%E1%B2%F1%FD%F6%F7%B2%FB%E1%B2%FC%FD%E6%B2%F1%FD%E0%E0%F7%F1%E6%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B0%D5%F3%FF%F7%B2%DD%E4%F7%E0%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B0%D1%FD%FD%FE%B3%B2%C6%FA%F7%B2%F1%FE%E7%F7%B2%FB%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D3%F1%F1%F7%E1%E1%B2%F1%FD%F6%F7%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%D1%FE%FB%F1%F9%B2%FA%F7%E0%F7%B2%E6%FD%B2%E2%FE%F3%EB%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%DA%FB%E6%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C1%F1%FD%E0%F7%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C5%F7%FB%F5%FA%E6%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F7%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F7%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%FB%FF%F7%B2%DE%FB%FF%FB%E6%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%DE%FB%F4%F7%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%D4%E7%FE%FE%B2%C1%F1%E0%F7%F7%FC%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%D7%EA%FB%E6%B2%D4%E7%FE%FE%B2%C1%F1%E0%F7%F7%FC%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DC%E7%FF%F0%F7%E0%B2%FD%F4%B2%E3%E7%F7%E1%E6%FB%FD%FC%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B0%C0%FB%F5%FA%E6%B3%B2%EE%B2%D7%EA%F1%F7%FE%FE%F7%FC%E6%B3%B2%EE%B2%D5%E0%F7%F3%E6%B3%B2%EE%B2%C4%F7%E0%EB%B2%F5%FD%FD%F6%B3%B2%EE%B2%C2%F7%E0%F4%F7%F1%E6%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B0%DB%E6%B2%E5%F3%E1%B2%FC%FD%E6%B2%E6%FA%F3%E6%B3%B2%EE%B2%DB%FC%F1%FD%E0%E0%F7%F1%E6%B3%B2%EE%B2%DC%FD%E6%B2%F1%FD%E0%E0%F7%F1%E6%B3%B2%EE%B2%C1%FD%E0%E0%EB%B3%B2%EE%B2%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%CB%FD%E7%B2%FC%F7%F7%F6%B2%F3%E6%B2%FE%F7%F3%E1%E6%B2%B7%E1%B7%B2%FD%F4%B2%F1%FD%E0%E0%F7%F1%E6%B2%F3%FC%E1%E5%F7%E0%E1%B2%E6%FD%B2%F5%F7%E6%B2%E6%FA%F7%B2%FB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%BC%B2%C2%FE%F7%F3%E1%F7%B2%E6%E0%EB%B2%F3%F5%F3%FB%FC%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%C2%FE%F7%F3%E1%F7%B2%E1%E6%F3%E0%E6%B2%E6%FA%F7%B2%F5%F3%FF%F7%B2%F0%F7%F4%FD%E0%F7%B2%E1%F3%E4%FB%FC%F5%B2%EB%FD%E7%E0%B2%E1%F1%FD%E0%F7%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%C6%FA%F7%B2%E1%F1%FD%E0%F7%B2%F1%F3%FC%B5%E6%B2%F0%F7%B2%E1%F3%E4%F7%F6%B2%F0%F7%F1%F3%E7%E1%F7%B2%E6%FA%FB%E1%B2%E2%F3%F5%F7%B2%FB%E1%B2%FC%FD%E6%B2%E2%F3%E0%E6%B2%FD%F4%B2%F3%B2%C1%D1%DD%C0%DF%B2%E2%F3%F1%F9%F3%F5%F7%BC%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%D3%FC%E1%E5%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E1%F3%E4%F7%B2%E6%FA%F7%B2%E1%F1%FD%E0%F7%B2%FD%FC%F1%F7%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E1%F3%E4%F7%B2%FD%FC%F1%F7%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%E0%B2%E1%F1%FD%E0%F7%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FA%FD%E0%E1%FA%FB%E2%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%CB%FD%E7%E0%B2%E1%F1%FD%E0%F7%B2%E5%FB%FE%FE%B2%F0%F7%B2%E1%F3%E4%F7%F6%B2%F3%F4%E6%F7%E0%B2%F7%F3%F1%FA%B2%E3%E7%F7%E1%E6%FB%FD%FC%BC%B2%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E2%FE%F3%EB%B2%FD%FC%F1%F7%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%CB%FD%E7%E0%B2%E1%F1%FD%E0%F7%B2%E5%FB%FE%FE%B2%F0%F7%B2%F3%E7%E6%FD%FF%F3%E6%FB%F1%F3%FE%FE%EB%B2%E1%F3%E4%F7%F6%B2%F3%F4%E6%F7%E0%B2%F7%F3%F1%FA%B2%E3%E7%F7%E1%E6%FB%FD%FC%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%E1%F3%E4%F7%B2%E6%FA%F7%B2%E1%F1%FD%E0%F7%B2%F3%E1%B2%FF%F3%FC%EB%B2%E6%FB%FF%F7%E1%B2%F3%E1%B2%EB%FD%E7%B2%E5%F3%FC%E6%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%C6%FA%F7%B2%FE%F3%E1%E6%B2%E1%F1%FD%E0%F7%B2%E1%F3%E4%F7%F6%B2%FB%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%FD%E7%B2%FA%F3%E4%F7%B2%F3%FE%E0%F7%F3%F6%EB%B2%F6%FD%FC%F7%B2%E6%FA%FB%E1%B2%F3%F1%E6%FB%E4%FB%E6%EB%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%F6%FD%B2%E6%FA%FB%E1%B2%F3%F1%E6%FB%E4%FB%E6%EB%B2%F3%E1%B2%FF%F3%FC%EB%B2%E6%FB%FF%F7%E1%B2%F3%E1%B2%EB%FD%E7%B2%E5%F3%FC%E6%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%FE%FD%E1%F7%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%E6%FB%FD%FC%B0%BE%B0%FF%E1%F5%C6%E0%EB%B0%A8%B0%C6%E0%EB%B2%F3%F5%F3%FB%FC%B3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FA%F7%F1%F9%B0%BE%B0%FF%E1%F5%D7%FC%F6%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%B2%F5%FD%E6%B2%B7%E1%B2%E0%FB%F5%FA%E6%B2%F3%FC%E1%E5%F7%E0%E1%B2%F3%FC%F6%B2%B7%F6%B2%F7%E0%E0%FD%E0%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%C6%FB%FF%F7%B2%FD%E4%F7%E0%BC%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%D7%FC%F6%B0%A8%B0%CB%FD%E7%B2%F1%FD%FF%E2%FE%F7%E6%F7%F6%B2%E6%FA%F7%B2%F3%F1%E6%FB%E4%FB%E6%EB%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%DB%FC%F1%FD%FF%E2%FE%F7%E6%F7%B2%F3%F1%E6%FB%E4%FB%E6%EB%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%EB%A8%B2%C2%F3%E1%E1%F7%F6%BC%B2%C1%F1%FD%E0%F7%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%EB%A8%B2%DC%FD%E6%B2%E2%F3%E1%E1%F7%F6%BC%B2%C1%F1%FD%E0%F7%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F7%B0%EF%EF</div><div class="completa-text-game js-hidden"><p>1. Never share your @@password@@ with anyone.</p>
+<p>2. Don't talk to @@strangers@@ online.</p>
+<p>3. Think before you @@post@@ something.</p>
+<p>4. Tell a trusted @@adult@@ if something worries you.</p>
+<p>5. Always be @@kind@@ online. </p></div><div class="cmpt-bns js-hidden">Your browser is not compatible with this tool.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777971653314-p6n6qxpgt</odePageId>
+      <odeBlockId>block-1777994945432-sdmmwzb92</odeBlockId>
+      <blockName>True or false</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777971653314-p6n6qxpgt</odePageId>
+          <odeBlockId>block-1777994945432-sdmmwzb92</odeBlockId>
+          <odeIdeviceId>idevice-1777994945430-tuhr2j0hl</odeIdeviceId>
+          <odeIdeviceTypeName>trueorfalse</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-trueorfalse-container">
+  
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1777994945430-tuhr2j0hl" data-evaluationb="false" data-evaluationid=""></div>
+        <div class="TOFP-instructions"><p>Are these sentences True or False?</p></div>
+        <div class="TOFP-MainContainer" data-instance="idevice-1777994945430-tuhr2j0hl" id="tofPMainContainer-idevice-1777994945430-tuhr2j0hl">
+            <div class="TOFP-GameContainer" id="tofPGameContainer-idevice-1777994945430-tuhr2j0hl">
+                <div class="TOFP-GameScoreBoard TOFP-EHidden">
+                    <div class="TOFP-TimeNumber">
+                        <strong><span class="sr-av">Time per question:</span></strong>
+                        <p id="tofPPTime-idevice-1777994945430-tuhr2j0hl" class="TOFP-PTime">00:00:</p>
+                    </div>
+                </div>
+                <div class="TOFP-MessgeDiv" id="tofPMessageDiv-idevice-1777994945430-tuhr2j0hl">
+                    <div class="TOFP-Message" id="tofPMessage-idevice-1777994945430-tuhr2j0hl"></div>
+                </div>
+                <div class="TOFP-StartGameDiv TOFP-EHidden" id="tofPStartGameDiv-idevice-1777994945430-tuhr2j0hl">
+                    <button  id="tofPStartGame-idevice-1777994945430-tuhr2j0hl" type="button" class="btn btn-primary">Click here to start</button>
+                </div>
+                <div class="TOFP-Multimedia " id="tofPMultimedia-idevice-1777994945430-tuhr2j0hl">
+                </div>
+                <div class="TOFP-CheckTestDiv TOFP-EHidden" id="tofPCheckTestDiv-idevice-1777994945430-tuhr2j0hl">
+                    <button id="tofPCheckTest-idevice-1777994945430-tuhr2j0hl" type="button" class="btn btn-primary">Check</button>
+                    <button id="tofRebootTest-idevice-1777994945430-tuhr2j0hl" type="button" class="btn btn-primary TOFP-EHidden">Try again!</button>
+                </div>
+        </div> 
+        <div class="Games-BottonContainer">
+            <div class="Games-GetScore">
+                <input id="tofPSendScore-idevice-1777994945430-tuhr2j0hl" type="button" value="Save score" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+            </div>
+        </div>
+        <div class="TOFP-After"></div>
+        <div class="questionsMedia" style="display:none"></div>
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1777994945430-tuhr2j0hl","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>Are these sentences True or False?</p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Click here to start","msgTime":"Time per question","msgNoImage":"No picture question","msgScoreScorm":"The score can't be saved because this page is not part of a SCORM package.","msgEndGameScore":"Please start the game before saving your score.","msgOnlySaveScore":"You can only save the score once!","msgOnlySave":"You can only save once","msgYouScore":"Your score","msgAuthor":"Authorship","msgOnlySaveAuto":"Your score will be saved after each question. You can only play once.","msgSaveAuto":"Your score will be automatically saved after each question.","msgSeveralScore":"You can save the score as many times as you want","msgYouLastScore":"The last score saved is","msgActityComply":"You have already done this activity.","msgPlaySeveralTimes":"You can do this activity as many times as you want","msgUncompletedActivity":"Incomplete activity","msgSuccessfulActivity":"Activity: Passed. Score: %s","msgUnsuccessfulActivity":"Activity: Not passed. Score: %s","msgTypeGame":"True or false","msgFeedback":"Feedback","msgSuggestion":"Suggestion","msgSolution":"Solution","msgQuestion":"Question","msgTrue":"True","msgFalse":"False","msgOk":"Correct","msgKO":"Incorrect","msgShow":"Show","msgHide":"Hide","msgCheck":"Check","msgReboot":"Try again!","msgScore":"Score","msgWeight":"Weight","msgNext":"Next","msgPrevious":"Previous"},"questionsRandom":false,"percentageQuestions":100,"isTest":false,"time":0,"questionsGame":[{"question":"<p>A strong password uses only your name.</p>","feedback":"","suggestion":"","solution":0},{"question":"<p>You should tell an adult if someone online scares you.</p>","feedback":"","suggestion":"","solution":1},{"question":"<p>You can share your school name with online friends. </p>","feedback":"","suggestion":"","solution":0},{"question":"<p>https:// means a website is more secure. </p>","feedback":"","suggestion":"","solution":1}],"isScorm":0,"textButtonScorm":"Save score","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"","showSlider":false,"ideviceId":"idevice-1777994945430-tuhr2j0hl"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777971653314-p6n6qxpgt</odePageId>
+      <odeBlockId>block-1777995004798-gozsiuuy8</odeBlockId>
+      <blockName>✏️ Your task: Create your Digital Safety Decalogue</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777971653314-p6n6qxpgt</odePageId>
+          <odeBlockId>block-1777995004798-gozsiuuy8</odeBlockId>
+          <odeIdeviceId>idevice-1777995004796-ekkwz7mfo</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📝 TASK — OneNote:  Open your class OneNote notebook (your teacher will share the link on Teams).</p>
+<p>Go to the page «My Safety Decalogue».  </p>
+<p>Write YOUR OWN 5 rules for being safe online in English.</p>
+<p>Use these structures:    </p>
+<p>• Don't + verb (e.g., Don't share your password)    </p>
+<p>• You should / You shouldn't + verb    </p>
+<p>• Always / Never + verb  </p>
+<p><br /></p>
+<p>Add at least ONE image or emoji for each rule.</p>
+<p>Deadline: by the end of the session.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995004796-ekkwz7mfo","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>📝 TASK — OneNote:  Open your class OneNote notebook (your teacher will share the link on Teams).</p>\n<p>Go to the page «My Safety Decalogue».  </p>\n<p>Write YOUR OWN 5 rules for being safe online in English.</p>\n<p>Use these structures:    </p>\n<p>• Don't + verb (e.g., Don't share your password)    </p>\n<p>• You should / You shouldn't + verb    </p>\n<p>• Always / Never + verb  </p>\n<p><br /></p>\n<p>Add at least ONE image or emoji for each rule.</p>\n<p>Deadline: by the end of the session.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777972095901-1842oyjku</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Session 4 - Create your infographic</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Session 4 - Create your infographic</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777972095901-1842oyjku</odePageId>
+      <odeBlockId>block-1777995062710-bc1lp6ubn</odeBlockId>
+      <blockName>Overview</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972095901-1842oyjku</odePageId>
+          <odeBlockId>block-1777995062710-bc1lp6ubn</odeBlockId>
+          <odeIdeviceId>idevice-1777995062709-k1dtatscv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>🎯 Session goals</strong><br /></p>
+<p>•       Design an interactive infographic in English.</p>
+<p>•       Summarise the main safety tips visually.</p>
+<p>•       Practise teamwork and digital creativity.</p>
+<p> </p>
+<p>♿  DUA: You can choose the tool you feel most comfortable with: Canva or Genially. You may also work with a partner if you prefer. If English is difficult, write your ideas in Spanish first, then translate them together.</p>
+<p>📚 What is an infographic?<br />An infographic uses images, icons and short texts to explain information in a visual and clear way. Your infographic will be INTERACTIVE — that means it will have clickable elements!</p>
+<p> </p>
+<p>📋 <strong>Instructions</strong></p>
+<p><br />1.     Open Canva (canva.com) or Genially (genially.com) with your school email.</p>
+<p>2.     Choose the template your teacher has shared (see link on Teams).</p>
+<p>3.     Add at least 5 internet safety tips in English.</p>
+<p>4.     Include at least 3 images or icons.</p>
+<p>5.     Add at least 1 interactive element (clickable link, button, animation or tooltip).</p>
+<p>6.     Include a title: «How to be safe online».</p>
+<p>7.     Write the names of your group members.</p>
+<p>8.     When finished: share the link with your teacher on Teams.</p>
+<p><strong>💡 Useful language for your infographic</strong></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.2921%; text-align: center;"><strong>Giving advice</strong></td>
+<td style="width: 33.2921%; text-align: center;"><strong>Warnings</strong></td>
+<td style="width: 33.2921%; text-align: center;"><strong>Imperatives</strong></td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">
+<p>You should...</p>
+<p>It's important to...</p>
+<p>Make sure you...</p>
+</td>
+<td style="width: 33.2921%;">
+<p>Be careful with...</p>
+<p>Watch out for...</p>
+<p>Never + verb...</p>
+</td>
+<td style="width: 33.2921%;">
+<p>Don't share...</p>
+<p>Protect your...</p>
+<p>Tell an adult...</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p>📤 <strong>How to submit it</strong></p>
+<p>When your infographic is ready:</p>
+<p>1. In Canva: click «Share» &gt; «Copy link». Paste the link in the Teams assignment.</p>
+<p>2. In Genially: click «Share» &gt; «Publish» &gt; enable the public link. Copy and paste it.  Your teacher will check that the interactive elements work correctly.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995062709-k1dtatscv","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><strong>🎯 Session goals</strong><br /></p>\n<p>•       Design an interactive infographic in English.</p>\n<p>•       Summarise the main safety tips visually.</p>\n<p>•       Practise teamwork and digital creativity.</p>\n<p> </p>\n<p>♿  DUA: You can choose the tool you feel most comfortable with: Canva or Genially. You may also work with a partner if you prefer. If English is difficult, write your ideas in Spanish first, then translate them together.</p>\n<p>📚 What is an infographic?<br />An infographic uses images, icons and short texts to explain information in a visual and clear way. Your infographic will be INTERACTIVE — that means it will have clickable elements!</p>\n<p> </p>\n<p>📋 <strong>Instructions</strong></p>\n<p><br />1.     Open Canva (canva.com) or Genially (genially.com) with your school email.</p>\n<p>2.     Choose the template your teacher has shared (see link on Teams).</p>\n<p>3.     Add at least 5 internet safety tips in English.</p>\n<p>4.     Include at least 3 images or icons.</p>\n<p>5.     Add at least 1 interactive element (clickable link, button, animation or tooltip).</p>\n<p>6.     Include a title: «How to be safe online».</p>\n<p>7.     Write the names of your group members.</p>\n<p>8.     When finished: share the link with your teacher on Teams.</p>\n<p><strong>💡 Useful language for your infographic</strong></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.2921%; text-align: center;\"><strong>Giving advice</strong></td>\n<td style=\"width: 33.2921%; text-align: center;\"><strong>Warnings</strong></td>\n<td style=\"width: 33.2921%; text-align: center;\"><strong>Imperatives</strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">\n<p>You should...</p>\n<p>It's important to...</p>\n<p>Make sure you...</p>\n</td>\n<td style=\"width: 33.2921%;\">\n<p>Be careful with...</p>\n<p>Watch out for...</p>\n<p>Never + verb...</p>\n</td>\n<td style=\"width: 33.2921%;\">\n<p>Don't share...</p>\n<p>Protect your...</p>\n<p>Tell an adult...</p>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p>📤 <strong>How to submit it</strong></p>\n<p>When your infographic is ready:</p>\n<p>1. In Canva: click «Share» &gt; «Copy link». Paste the link in the Teams assignment.</p>\n<p>2. In Genially: click «Share» &gt; «Publish» &gt; enable the public link. Copy and paste it.  Your teacher will check that the interactive elements work correctly.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777972105755-85qoz8wl7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Session 5 - Action!</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Session 5 - Action!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777972105755-85qoz8wl7</odePageId>
+      <odeBlockId>block-1777995217578-cjg5dba3h</odeBlockId>
+      <blockName>Overview</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972105755-85qoz8wl7</odePageId>
+          <odeBlockId>block-1777995217578-cjg5dba3h</odeBlockId>
+          <odeIdeviceId>idevice-1777995217576-eq1adkhxk</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>🎯 Session goals</strong><br /></p>
+<p>•       Plan and film a short role-play video in English.</p>
+<p>•       Show a dangerous situation online and the correct solution.</p>
+<p>•       Practise spoken English in an authentic context.</p>
+<p> </p>
+<p>♿  DUA: You can choose your role in the group: actor, director, script writer or editor. All roles are equally important. Subtitles are recommended but not obligatory.</p>
+<p></p>
+<p><strong>🎬 Your video — What should it include?</strong><br /></p>
+<p>•       A short situation where someone is in danger online (e.g., receiving a message from a stranger, seeing cyberbullying).</p>
+<p>•       A response: what the person does to stay safe.</p>
+<p>•       At least 3 characters.</p>
+<p>•       All dialogue in English (it is OK to speak slowly — clarity is more important than speed!).</p>
+<p>•       Duration: 1–2 minutes.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995217576-eq1adkhxk","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p><strong>🎯 Session goals</strong><br /></p>\n<p>•       Plan and film a short role-play video in English.</p>\n<p>•       Show a dangerous situation online and the correct solution.</p>\n<p>•       Practise spoken English in an authentic context.</p>\n<p> </p>\n<p>♿  DUA: You can choose your role in the group: actor, director, script writer or editor. All roles are equally important. Subtitles are recommended but not obligatory.</p>\n<p></p>\n<p><strong>🎬 Your video — What should it include?</strong><br /></p>\n<p>•       A short situation where someone is in danger online (e.g., receiving a message from a stranger, seeing cyberbullying).</p>\n<p>•       A response: what the person does to stay safe.</p>\n<p>•       At least 3 characters.</p>\n<p>•       All dialogue in English (it is OK to speak slowly — clarity is more important than speed!).</p>\n<p>•       Duration: 1–2 minutes.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777972105755-85qoz8wl7</odePageId>
+      <odeBlockId>block-1777995320144-3gsc1kr96</odeBlockId>
+      <blockName>Reading Activity</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972105755-85qoz8wl7</odePageId>
+          <odeBlockId>block-1777995320144-3gsc1kr96</odeBlockId>
+          <odeIdeviceId>idevice-1777995320143-yv93q6tc7</odeIdeviceId>
+          <odeIdeviceTypeName>complete</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="completa-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1777995320143-yv93q6tc7" data-evaluationb="false" data-evaluationid="138f01f7-79f0-4119-b267-3745d89f82ba"></div><div class="completa-feedback-game"></div><div class="completa-instructions"><p>Fill in the gaps with the following words.</p>
+<p>Word bank: tell · block · stranger · uncomfortable · password </p></div><div class="completa-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%D4%FB%FE%FE%B2%FB%FC%B2%E6%FA%F7%B2%F5%F3%E2%E1%B2%E5%FB%E6%FA%B2%E6%FA%F7%B2%F4%FD%FE%FE%FD%E5%FB%FC%F5%B2%E5%FD%E0%F6%E1%BC%AE%BD%E2%AC%CE%FC%AE%E2%AC%C5%FD%E0%F6%B2%F0%F3%FC%F9%A8%B2%E6%F7%FE%FE%B2%25%B2%F0%FE%FD%F1%F9%B2%25%B2%E1%E6%E0%F3%FC%F5%F7%E0%B2%25%B2%E7%FC%F1%FD%FF%F4%FD%E0%E6%F3%F0%FE%F7%B2%25%B2%E2%F3%E1%E1%E5%FD%E0%F62%AE%BD%E2%AC%B0%BE%B0%E6%F7%EA%E6%C6%F7%EA%E6%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%C1%E6%E7%F6%F7%FC%E6%B7%A0%A2%A3%B7%A1%D3%B7%A0%A2%B7%D3%D0%DA%F7%EB%B7%A0%D1%B7%A0%A2%E1%FD%FF%F7%FD%FC%F7%B7%A0%A2%FB%FC%B7%A0%A2%E6%FA%F7%B7%A0%A2%F5%F3%FF%F7%B7%A0%A2%FB%E1%B7%A0%A2%F3%E1%F9%FB%FC%F5%B7%A0%A2%F4%FD%E0%B7%A0%A2%FF%EB%B7%A0%A2%D2%D2%E2%F3%E1%E1%E5%FD%E0%F6%D2%D2%BC%B7%D0%D0%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%C1%E6%E7%F6%F7%FC%E6%B7%A0%A2%A0%B7%A1%D3%B7%A0%A2%B7%D3%D0%DC%F7%E4%F7%E0%B7%A0%A2%E1%FA%F3%E0%F7%B7%A0%A2%FB%E6%B7%A0%A3%B7%A0%A2%C6%FA%F3%E6%B7%A0%A2%E2%F7%E0%E1%FD%FC%B7%A0%A2%FB%E1%B7%A0%A2%E2%E0%FD%F0%F3%F0%FE%EB%B7%A0%A2%F3%B7%A0%A2%D2%D2%E1%E6%E0%F3%FC%F5%F7%E0%D2%D2%BC%B7%D0%D0%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%C1%E6%E7%F6%F7%FC%E6%B7%A0%A2%A3%B7%A1%D3%B7%A0%A2%B7%D3%D0%C6%FA%F7%EB%B7%A0%A5%E0%F7%B7%A0%A2%FF%F3%F9%FB%FC%F5%B7%A0%A2%FF%F7%B7%A0%A2%F4%F7%F7%FE%B7%A0%A2%D2%D2%E7%FC%F1%FD%FF%F4%FD%E0%E6%F3%F0%FE%F7%D2%D2%BC%B7%D0%D0%B7%A1%D1%BD%E2%B7%A1%D7%B7%A2%D3%B7%A1%D1%E2%B7%A1%D7%C1%E6%E7%F6%F7%FC%E6%B7%A0%A2%A0%B7%A1%D3%B7%A0%A2%B7%D3%D0%CB%FD%E7%B7%A0%A2%E1%FA%FD%E7%FE%F6%B7%A0%A2%D2%D2%F0%FE%FD%F1%F9%D2%D2%B7%A0%A2%E6%FA%F7%FF%B7%A0%A2%E0%FB%F5%FA%E6%B7%A0%A2%FC%FD%E5%BC%B7%A0%A2%D3%FC%F6%B7%A0%A2%E5%F7%B7%A0%A2%FC%F7%F7%F6%B7%A0%A2%E6%FD%B7%A0%A2%D2%D2%E6%F7%FE%FE%D2%D2%B7%A0%A2%F3%B7%A0%A2%E6%F7%F3%F1%FA%F7%E0%BC%B7%D0%D0%B7%A0%A2%B7%D3%A2%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%C1%F3%E4%F7%B2%E1%F1%FD%E0%F7%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%E6%F7%EA%E6%D4%F7%F7%F6%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%F4%F7%F7%F6%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D4%D0%B0%A8%A3%A2%A2%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F7%E1%E6%E0%FB%F1%E6%D1%FA%F7%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%C1%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%FB%FF%F7%B0%A8%A2%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%E5%FD%E0%F6%E1%D7%E0%E0%FD%E0%E1%B0%A8%B0%B0%BE%B0%F3%E6%E6%F7%FF%E2%E1%DC%E7%FF%F0%F7%E0%B0%A8%A3%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%D7%E0%E0%FD%E0%B0%A8%A0%A2%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E5%FD%E0%F6%E1%DE%FB%FF%FB%E6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A3%A1%AA%F4%A2%A3%F4%A5%BF%A5%AB%F4%A2%BF%A6%A3%A3%AB%BF%F0%A0%A4%A5%BF%A1%A5%A6%A7%F6%AA%AB%F4%AA%A0%F0%F3%B0%BE%B0%FA%F3%E1%D0%F3%F1%F9%B0%A8%F4%F3%FE%E1%F7%BE%B0%E7%E0%FE%D0%F3%F1%F9%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%D0%F3%F1%F9%DB%FF%F3%F5%F7%B0%A8%B0%B0%BE%B0%F4%FD%FC%E6%D1%FD%FE%FD%E0%B0%A8%B0%B1%A2%A2%A2%A2%A2%A2%B0%BE%B0%FB%F6%B0%A8%B0%FB%F6%F7%E4%FB%F1%F7%BF%A3%A5%A5%A5%AB%AB%A7%A1%A0%A2%A3%A6%A1%BF%EB%E4%AB%A1%E3%A4%E6%F1%A5%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E2%FE%EB%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%D7%FC%E6%F7%E0%B2%E6%FA%F7%B2%F3%F1%F1%F7%E1%E1%B2%F1%FD%F6%F7%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%C6%FA%F7%B2%F3%F1%F1%F7%E1%E1%B2%F1%FD%F6%F7%B2%FB%E1%B2%FC%FD%E6%B2%F1%FD%E0%E0%F7%F1%E6%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B0%D5%F3%FF%F7%B2%DD%E4%F7%E0%B3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B0%D1%FD%FD%FE%B3%B2%C6%FA%F7%B2%F1%FE%E7%F7%B2%FB%E1%A8%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D3%F1%F1%F7%E1%E1%B2%F1%FD%F6%F7%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%D1%FE%FB%F1%F9%B2%FA%F7%E0%F7%B2%E6%FD%B2%E2%FE%F3%EB%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%DA%FB%E6%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C1%F1%FD%E0%F7%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C5%F7%FB%F5%FA%E6%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F7%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F7%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%C6%FB%FF%F7%B2%DE%FB%FF%FB%E6%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DE%FB%E4%F7%B0%A8%B0%DE%FB%F4%F7%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%D4%E7%FE%FE%B2%C1%F1%E0%F7%F7%FC%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%D7%EA%FB%E6%B2%D4%E7%FE%FE%B2%C1%F1%E0%F7%F7%FC%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DC%E7%FF%F0%F7%E0%B2%FD%F4%B2%E3%E7%F7%E1%E6%FB%FD%FC%E1%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B0%C0%FB%F5%FA%E6%B3%B2%EE%B2%D7%EA%F1%F7%FE%FE%F7%FC%E6%B3%B2%EE%B2%D5%E0%F7%F3%E6%B3%B2%EE%B2%C4%F7%E0%EB%B2%F5%FD%FD%F6%B3%B2%EE%B2%C2%F7%E0%F4%F7%F1%E6%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B0%DB%E6%B2%E5%F3%E1%B2%FC%FD%E6%B2%E6%FA%F3%E6%B3%B2%EE%B2%DB%FC%F1%FD%E0%E0%F7%F1%E6%B3%B2%EE%B2%DC%FD%E6%B2%F1%FD%E0%E0%F7%F1%E6%B3%B2%EE%B2%C1%FD%E0%E0%EB%B3%B2%EE%B2%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C6%E0%EB%D3%F5%F3%FB%FC%B0%A8%B0%CB%FD%E7%B2%FC%F7%F7%F6%B2%F3%E6%B2%FE%F7%F3%E1%E6%B2%B7%E1%B7%B2%FD%F4%B2%F1%FD%E0%E0%F7%F1%E6%B2%F3%FC%E1%E5%F7%E0%E1%B2%E6%FD%B2%F5%F7%E6%B2%E6%FA%F7%B2%FB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%BC%B2%C2%FE%F7%F3%E1%F7%B2%E6%E0%EB%B2%F3%F5%F3%FB%FC%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%C2%FE%F7%F3%E1%F7%B2%E1%E6%F3%E0%E6%B2%E6%FA%F7%B2%F5%F3%FF%F7%B2%F0%F7%F4%FD%E0%F7%B2%E1%F3%E4%FB%FC%F5%B2%EB%FD%E7%E0%B2%E1%F1%FD%E0%F7%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%C6%FA%F7%B2%E1%F1%FD%E0%F7%B2%F1%F3%FC%B5%E6%B2%F0%F7%B2%E1%F3%E4%F7%F6%B2%F0%F7%F1%F3%E7%E1%F7%B2%E6%FA%FB%E1%B2%E2%F3%F5%F7%B2%FB%E1%B2%FC%FD%E6%B2%E2%F3%E0%E6%B2%FD%F4%B2%F3%B2%C1%D1%DD%C0%DF%B2%E2%F3%F1%F9%F3%F5%F7%BC%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%D3%FC%E1%E5%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E1%F3%E4%F7%B2%E6%FA%F7%B2%E1%F1%FD%E0%F7%B2%FD%FC%F1%F7%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E1%F3%E4%F7%B2%FD%FC%F1%F7%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%E0%B2%E1%F1%FD%E0%F7%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FA%FD%E0%E1%FA%FB%E2%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%CB%FD%E7%E0%B2%E1%F1%FD%E0%F7%B2%E5%FB%FE%FE%B2%F0%F7%B2%E1%F3%E4%F7%F6%B2%F3%F4%E6%F7%E0%B2%F7%F3%F1%FA%B2%E3%E7%F7%E1%E6%FB%FD%FC%BC%B2%CB%FD%E7%B2%F1%F3%FC%B2%FD%FC%FE%EB%B2%E2%FE%F3%EB%B2%FD%FC%F1%F7%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%CB%FD%E7%E0%B2%E1%F1%FD%E0%F7%B2%E5%FB%FE%FE%B2%F0%F7%B2%F3%E7%E6%FD%FF%F3%E6%FB%F1%F3%FE%FE%EB%B2%E1%F3%E4%F7%F6%B2%F3%F4%E6%F7%E0%B2%F7%F3%F1%FA%B2%E3%E7%F7%E1%E6%FB%FD%FC%BC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%E1%F3%E4%F7%B2%E6%FA%F7%B2%E1%F1%FD%E0%F7%B2%F3%E1%B2%FF%F3%FC%EB%B2%E6%FB%FF%F7%E1%B2%F3%E1%B2%EB%FD%E7%B2%E5%F3%FC%E6%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%C6%FA%F7%B2%FE%F3%E1%E6%B2%E1%F1%FD%E0%F7%B2%E1%F3%E4%F7%F6%B2%FB%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%FD%E7%B2%FA%F3%E4%F7%B2%F3%FE%E0%F7%F3%F6%EB%B2%F6%FD%FC%F7%B2%E6%FA%FB%E1%B2%F3%F1%E6%FB%E4%FB%E6%EB%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%CB%FD%E7%B2%F1%F3%FC%B2%F6%FD%B2%E6%FA%FB%E1%B2%F3%F1%E6%FB%E4%FB%E6%EB%B2%F3%E1%B2%FF%F3%FC%EB%B2%E6%FB%FF%F7%E1%B2%F3%E1%B2%EB%FD%E7%B2%E5%F3%FC%E6%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%FE%FD%E1%F7%B0%BE%B0%FF%E1%F5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%B0%C1%FD%FE%E7%E6%FB%FD%FC%B0%BE%B0%FF%E1%F5%C6%E0%EB%B0%A8%B0%C6%E0%EB%B2%F3%F5%F3%FB%FC%B3%B0%BE%B0%FF%E1%F5%D1%FA%F7%F1%F9%B0%A8%B0%D1%FA%F7%F1%F9%B0%BE%B0%FF%E1%F5%D7%FC%F6%C1%F1%FD%E0%F7%B0%A8%B0%CB%FD%E7%B2%F5%FD%E6%B2%B7%E1%B2%E0%FB%F5%FA%E6%B2%F3%FC%E1%E5%F7%E0%E1%B2%F3%FC%F6%B2%B7%F6%B2%F7%E0%E0%FD%E0%E1%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%C6%FB%FF%F7%B2%FD%E4%F7%E0%BC%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%D7%FC%F6%B0%A8%B0%CB%FD%E7%B2%F1%FD%FF%E2%FE%F7%E6%F7%F6%B2%E6%FA%F7%B2%F3%F1%E6%FB%E4%FB%E6%EB%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%DB%FC%F1%FD%FF%E2%FE%F7%E6%F7%B2%F3%F1%E6%FB%E4%FB%E6%EB%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%EB%A8%B2%C2%F3%E1%E1%F7%F6%BC%B2%C1%F1%FD%E0%F7%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%E6%EB%A8%B2%DC%FD%E6%B2%E2%F3%E1%E1%F7%F6%BC%B2%C1%F1%FD%E0%F7%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%D1%FD%FF%E2%FE%F7%E6%F7%B0%EF%EF</div><div class="completa-text-game js-hidden"><p>Student 1: «Hey, someone in the game is asking for my @@password@@.»</p>
+<p>Student 2: «Never share it! That person is probably a @@stranger@@.»</p>
+<p>Student 1: «They're making me feel @@uncomfortable@@.»</p>
+<p>Student 2: «You should @@block@@ them right now. And we need to @@tell@@ a teacher.»  </p></div><div class="cmpt-bns js-hidden">Your browser is not compatible with this tool.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777972105755-85qoz8wl7</odePageId>
+      <odeBlockId>block-1777995443760-z8e6hf8p1</odeBlockId>
+      <blockName>📋 Script planner — Teams</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972105755-85qoz8wl7</odePageId>
+          <odeBlockId>block-1777995443760-z8e6hf8p1</odeBlockId>
+          <odeIdeviceId>idevice-1777995443759-pkjupkk4n</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>📝 BEFORE FILMING:</p>
+<p>Open Teams &gt; «Being Safe Online» &gt; «Script Planning» tab.</p>
+<p>With your group, decide:    </p>
+<p>• What is the dangerous situation?    </p>
+<p>• Who are the characters?    </p>
+<p>• What does each person say?    </p>
+<p>• How does it end safely?  </p>
+<p>Write your script (minimum 8 lines of dialogue). Your teacher must approve it before you start filming.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995443759-pkjupkk4n","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>📝 BEFORE FILMING:</p>\n<p>Open Teams &gt; «Being Safe Online» &gt; «Script Planning» tab.</p>\n<p>With your group, decide:    </p>\n<p>• What is the dangerous situation?    </p>\n<p>• Who are the characters?    </p>\n<p>• What does each person say?    </p>\n<p>• How does it end safely?  </p>\n<p>Write your script (minimum 8 lines of dialogue). Your teacher must approve it before you start filming.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777972105755-85qoz8wl7</odePageId>
+      <odeBlockId>block-1777995681973-7fvyz15tc</odeBlockId>
+      <blockName>🎥 How to film and edit</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972105755-85qoz8wl7</odePageId>
+          <odeBlockId>block-1777995681973-7fvyz15tc</odeBlockId>
+          <odeIdeviceId>idevice-1777995681972-s057j5kvm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p> <br />1.     Film with a tablet, phone or webcam.</p>
+<p>2.     Use Clipchamp (Windows) or iMovie (Apple) to edit.</p>
+<p>3.     Add a title at the beginning: «Being Safe Online — [Your Group Name]».</p>
+<p>4.     Optional: add subtitles.</p>
+<p>5.     Export as MP4.</p>
+<p>6.     Upload to Teams: assignment «Session 5 — Our Video».</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995681972-s057j5kvm","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p> <br />1.     Film with a tablet, phone or webcam.</p>\n<p>2.     Use Clipchamp (Windows) or iMovie (Apple) to edit.</p>\n<p>3.     Add a title at the beginning: «Being Safe Online — [Your Group Name]».</p>\n<p>4.     Optional: add subtitles.</p>\n<p>5.     Export as MP4.</p>\n<p>6.     Upload to Teams: assignment «Session 5 — Our Video».</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777972105755-85qoz8wl7</odePageId>
+      <odeBlockId>block-1777995704473-wynbbcnth</odeBlockId>
+      <blockName>💡 Useful phrases for your video</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972105755-85qoz8wl7</odePageId>
+          <odeBlockId>block-1777995704473-wynbbcnth</odeBlockId>
+          <odeIdeviceId>idevice-1777995704472-4gb6yzzso</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>•       «I got a message from a stranger online...»</p>
+<p>•       «Don't share your personal information!»</p>
+<p>•       «We should tell a teacher / our parents.»</p>
+<p>•       «That doesn't feel safe. Let's block them.»</p>
+<p>•       «If something feels wrong online, always speak up!»</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995704472-4gb6yzzso","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>•       «I got a message from a stranger online...»</p>\n<p>•       «Don't share your personal information!»</p>\n<p>•       «We should tell a teacher / our parents.»</p>\n<p>•       «That doesn't feel safe. Let's block them.»</p>\n<p>•       «If something feels wrong online, always speak up!»</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777972120426-2vrrnriv7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Session 6 - Share and Reflect</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Session 6 - Share and Reflect</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777972120426-2vrrnriv7</odePageId>
+      <odeBlockId>block-1777995730689-ac3cpabwm</odeBlockId>
+      <blockName>Overview</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972120426-2vrrnriv7</odePageId>
+          <odeBlockId>block-1777995730689-ac3cpabwm</odeBlockId>
+          <odeIdeviceId>idevice-1777995730688-dv0ovpzjs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>🎯 Session goals<br />•       Share your infographic and video with the class.</p>
+<p>•       Give and receive feedback in English.</p>
+<p>•       Reflect on what you have learned.</p>
+<p> </p>
+<p>♿  DUA: You can present sitting down or from your seat. If you feel nervous speaking in public, you may read from your notes. Your teacher will give you a printed copy of the rubric if you need one.<br /> </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995730688-dv0ovpzjs","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>🎯 Session goals<br />•       Share your infographic and video with the class.</p>\n<p>•       Give and receive feedback in English.</p>\n<p>•       Reflect on what you have learned.</p>\n<p> </p>\n<p>♿  DUA: You can present sitting down or from your seat. If you feel nervous speaking in public, you may read from your notes. Your teacher will give you a printed copy of the rubric if you need one.<br /> </p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777972120426-2vrrnriv7</odePageId>
+      <odeBlockId>block-1777995745972-vb8povjcy</odeBlockId>
+      <blockName>🎤 Presentation time</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972120426-2vrrnriv7</odePageId>
+          <odeBlockId>block-1777995745972-vb8povjcy</odeBlockId>
+          <odeIdeviceId>idevice-1777995745972-ujq9sa6fv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Each group will:</p>
+<p>1.     Show their interactive infographic on the screen (projected via Teams or browser).</p>
+<p>2.     Explain 3 of their internet safety tips in English.</p>
+<p>3.     Play their video.</p>
+<p>4.     Answer one question from the class.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995745972-ujq9sa6fv","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>Each group will:</p>\n<p>1.     Show their interactive infographic on the screen (projected via Teams or browser).</p>\n<p>2.     Explain 3 of their internet safety tips in English.</p>\n<p>3.     Play their video.</p>\n<p>4.     Answer one question from the class.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777972120426-2vrrnriv7</odePageId>
+      <odeBlockId>block-1777995766138-7p2gtulx5</odeBlockId>
+      <blockName>💬 Giving feedback — Sentence starters</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972120426-2vrrnriv7</odePageId>
+          <odeBlockId>block-1777995766138-7p2gtulx5</odeBlockId>
+          <odeIdeviceId>idevice-1777995766137-qsdsrjh9m</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 49.9381%; text-align: center;"><strong>Positive feedback ✅</strong></td>
+<td style="width: 49.9381%; text-align: center;"><strong>Suggestions 💡</strong></td>
+</tr>
+<tr>
+<td style="width: 49.9381%;">
+<p>«I really liked...»</p>
+<p>«Your infographic was very clear because...»</p>
+<p>«I learnt something new: ...»</p>
+</td>
+<td style="width: 49.9381%;">
+<p>«Maybe next time you could...»</p>
+<p>«One idea to improve it: ...»</p>
+<p>«I think it would be better if...»</p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995766137-qsdsrjh9m","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 49.9381%; text-align: center;\"><strong>Positive feedback ✅</strong></td>\n<td style=\"width: 49.9381%; text-align: center;\"><strong>Suggestions 💡</strong></td>\n</tr>\n<tr>\n<td style=\"width: 49.9381%;\">\n<p>«I really liked...»</p>\n<p>«Your infographic was very clear because...»</p>\n<p>«I learnt something new: ...»</p>\n</td>\n<td style=\"width: 49.9381%;\">\n<p>«Maybe next time you could...»</p>\n<p>«One idea to improve it: ...»</p>\n<p>«I think it would be better if...»</p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777972120426-2vrrnriv7</odePageId>
+      <odeBlockId>block-1777995811655-kj54afwdm</odeBlockId>
+      <blockName>📝 Self-assessment — Teams</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972120426-2vrrnriv7</odePageId>
+          <odeBlockId>block-1777995811655-kj54afwdm</odeBlockId>
+          <odeIdeviceId>idevice-1777995811653-407vja001</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>SELF-ASSESSMENT TASK (Teams form): Your teacher will share a form on Teams. Answer these questions honestly:  </p>
+<p>1. What did I do well in this project?</p>
+<p>2. What was the most difficult part?</p>
+<p>3. What do I know now about internet safety that I didn't know before?</p>
+<p>4. I would like to improve...</p>
+<p>5. My effort in this project: ⭐⭐⭐⭐⭐ (choose 1–5)  </p>
+<p></p>
+<p>Complete this before leaving the class.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995811653-407vja001","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>SELF-ASSESSMENT TASK (Teams form): Your teacher will share a form on Teams. Answer these questions honestly:  </p>\n<p>1. What did I do well in this project?</p>\n<p>2. What was the most difficult part?</p>\n<p>3. What do I know now about internet safety that I didn't know before?</p>\n<p>4. I would like to improve...</p>\n<p>5. My effort in this project: ⭐⭐⭐⭐⭐ (choose 1–5)  </p>\n<p></p>\n<p>Complete this before leaving the class.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777972136162-pspwb2lq3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Glossary</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Glossary</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777972136162-pspwb2lq3</odePageId>
+      <odeBlockId>block-1777995862389-h31m87zba</odeBlockId>
+      <blockName>📖 Key vocabulary — Being Safe Online</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972136162-pspwb2lq3</odePageId>
+          <odeBlockId>block-1777995862389-h31m87zba</odeBlockId>
+          <odeIdeviceId>idevice-1777995862388-3z5n53v86</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="3" cellspacing="2" style="width: 100%; border-color: #000000; border-style: dashed;">
+<tbody>
+<tr>
+<td style="width: 33.2921%; text-align: center;"><strong>TERM</strong></td>
+<td style="width: 33.2921%; text-align: center;"><strong>DEFINITION (English)</strong></td>
+<td style="width: 33.2921%; text-align: center;"><strong>EN ESPAÑOL</strong></td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Cyberbullying</td>
+<td style="width: 33.2921%;">Using technology to hurt, threaten or embarrass someone repeatedly.</td>
+<td style="width: 33.2921%;">Ciberacoso</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Password</td>
+<td style="width: 33.2921%;">A secret word or code used to access an account or device.</td>
+<td style="width: 33.2921%;">Contraseña</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Phishing</td>
+<td style="width: 33.2921%;">A trick to steal personal information by pretending to be a trustworthy source.</td>
+<td style="width: 33.2921%;">Suplantación de identidad / phishing</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Grooming</td>
+<td style="width: 33.2921%;">When an adult builds a relationship with a child online to harm them.</td>
+<td style="width: 33.2921%;">Grooming (acoso sexual a menores)</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Personal information</td>
+<td style="width: 33.2921%;">Details that identify a person: name, address, phone number, photo, school.</td>
+<td style="width: 33.2921%;">Información personal</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Privacy</td>
+<td style="width: 33.2921%;">The right to keep your personal information safe and to yourself.</td>
+<td style="width: 33.2921%;">Privacidad</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Stranger</td>
+<td style="width: 33.2921%;">A person you don't know in real life.</td>
+<td style="width: 33.2921%;">Desconocido/a</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Screen time</td>
+<td style="width: 33.2921%;">The amount of time spent using a screen (phone, tablet, computer, TV).</td>
+<td style="width: 33.2921%;">Tiempo de pantalla</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Trusted adult</td>
+<td style="width: 33.2921%;">A grown-up you trust and can talk to if something worries you (parent, teacher).</td>
+<td style="width: 33.2921%;">Adulto/a de confianza</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Block</td>
+<td style="width: 33.2921%;">To stop someone from contacting you online.</td>
+<td style="width: 33.2921%;">Bloquear</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Report</td>
+<td style="width: 33.2921%;">To tell an adult or a platform that something or someone is not safe.</td>
+<td style="width: 33.2921%;">Denunciar / reportar</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Download</td>
+<td style="width: 33.2921%;">To copy a file from the internet to your device.</td>
+<td style="width: 33.2921%;">Descargar</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Https://</td>
+<td style="width: 33.2921%;">The beginning of a secure website address. The 's' means 'secure'.</td>
+<td style="width: 33.2921%;">Https:// (protocolo seguro)</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Social media</td>
+<td style="width: 33.2921%;">Online platforms where people share content and communicate (Instagram, TikTok...).</td>
+<td style="width: 33.2921%;">Redes sociales</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Virus</td>
+<td style="width: 33.2921%;">A harmful programme that can damage your device or steal information.</td>
+<td style="width: 33.2921%;">Virus informático</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777995862388-3z5n53v86","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<table border=\"3\" cellspacing=\"2\" style=\"width: 100%; border-color: #000000; border-style: dashed;\">\n<tbody>\n<tr>\n<td style=\"width: 33.2921%; text-align: center;\"><strong>TERM</strong></td>\n<td style=\"width: 33.2921%; text-align: center;\"><strong>DEFINITION (English)</strong></td>\n<td style=\"width: 33.2921%; text-align: center;\"><strong>EN ESPAÑOL</strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Cyberbullying</td>\n<td style=\"width: 33.2921%;\">Using technology to hurt, threaten or embarrass someone repeatedly.</td>\n<td style=\"width: 33.2921%;\">Ciberacoso</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Password</td>\n<td style=\"width: 33.2921%;\">A secret word or code used to access an account or device.</td>\n<td style=\"width: 33.2921%;\">Contraseña</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Phishing</td>\n<td style=\"width: 33.2921%;\">A trick to steal personal information by pretending to be a trustworthy source.</td>\n<td style=\"width: 33.2921%;\">Suplantación de identidad / phishing</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Grooming</td>\n<td style=\"width: 33.2921%;\">When an adult builds a relationship with a child online to harm them.</td>\n<td style=\"width: 33.2921%;\">Grooming (acoso sexual a menores)</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Personal information</td>\n<td style=\"width: 33.2921%;\">Details that identify a person: name, address, phone number, photo, school.</td>\n<td style=\"width: 33.2921%;\">Información personal</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Privacy</td>\n<td style=\"width: 33.2921%;\">The right to keep your personal information safe and to yourself.</td>\n<td style=\"width: 33.2921%;\">Privacidad</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Stranger</td>\n<td style=\"width: 33.2921%;\">A person you don't know in real life.</td>\n<td style=\"width: 33.2921%;\">Desconocido/a</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Screen time</td>\n<td style=\"width: 33.2921%;\">The amount of time spent using a screen (phone, tablet, computer, TV).</td>\n<td style=\"width: 33.2921%;\">Tiempo de pantalla</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Trusted adult</td>\n<td style=\"width: 33.2921%;\">A grown-up you trust and can talk to if something worries you (parent, teacher).</td>\n<td style=\"width: 33.2921%;\">Adulto/a de confianza</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Block</td>\n<td style=\"width: 33.2921%;\">To stop someone from contacting you online.</td>\n<td style=\"width: 33.2921%;\">Bloquear</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Report</td>\n<td style=\"width: 33.2921%;\">To tell an adult or a platform that something or someone is not safe.</td>\n<td style=\"width: 33.2921%;\">Denunciar / reportar</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Download</td>\n<td style=\"width: 33.2921%;\">To copy a file from the internet to your device.</td>\n<td style=\"width: 33.2921%;\">Descargar</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Https://</td>\n<td style=\"width: 33.2921%;\">The beginning of a secure website address. The 's' means 'secure'.</td>\n<td style=\"width: 33.2921%;\">Https:// (protocolo seguro)</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Social media</td>\n<td style=\"width: 33.2921%;\">Online platforms where people share content and communicate (Instagram, TikTok...).</td>\n<td style=\"width: 33.2921%;\">Redes sociales</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Virus</td>\n<td style=\"width: 33.2921%;\">A harmful programme that can damage your device or steal information.</td>\n<td style=\"width: 33.2921%;\">Virus informático</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777972139645-y3ffeaz9u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Assessment</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Assessment</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777972139645-y3ffeaz9u</odePageId>
+      <odeBlockId>block-1777996220782-29ualppb9</odeBlockId>
+      <blockName>📋 ¿Cuándo y cómo se evalúa?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972139645-y3ffeaz9u</odePageId>
+          <odeBlockId>block-1777996220782-29ualppb9</odeBlockId>
+          <odeIdeviceId>idevice-1777996220780-pnot4zol5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.2921%; text-align: center;"><strong>MOMENTO</strong></td>
+<td style="width: 33.2921%; text-align: center;"><strong>INSTRUMENTO</strong></td>
+<td style="width: 33.2921%; text-align: center;"><strong>¿QUIÉN EVALÚA?</strong></td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">
+<p>Durante las sesiones</p>
+<p>(evaluación continua)</p>
+</td>
+<td style="width: 33.2921%;">Observación directa + actividades eXeLearning (iDevices)</td>
+<td style="width: 33.2921%;">Docente</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Sesión 4 — Infografía</td>
+<td style="width: 33.2921%;">Rúbrica de evaluación (ver abajo)</td>
+<td style="width: 33.2921%;">Docente + coevaluación</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Sesión 5 — Vídeo</td>
+<td style="width: 33.2921%;">Rúbrica de evaluación (ver abajo)</td>
+<td style="width: 33.2921%;">Docente</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Sesión 6 — Presentación</td>
+<td style="width: 33.2921%;">Lista de cotejo</td>
+<td style="width: 33.2921%;">Docente</td>
+</tr>
+<tr>
+<td style="width: 33.2921%;">Sesión 6 — Autoevaluación</td>
+<td style="width: 33.2921%;">Formulario de autoevaluación (Teams)</td>
+<td style="width: 33.2921%;">Alumnado</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777996220780-pnot4zol5","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.2921%; text-align: center;\"><strong>MOMENTO</strong></td>\n<td style=\"width: 33.2921%; text-align: center;\"><strong>INSTRUMENTO</strong></td>\n<td style=\"width: 33.2921%; text-align: center;\"><strong>¿QUIÉN EVALÚA?</strong></td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">\n<p>Durante las sesiones</p>\n<p>(evaluación continua)</p>\n</td>\n<td style=\"width: 33.2921%;\">Observación directa + actividades eXeLearning (iDevices)</td>\n<td style=\"width: 33.2921%;\">Docente</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Sesión 4 — Infografía</td>\n<td style=\"width: 33.2921%;\">Rúbrica de evaluación (ver abajo)</td>\n<td style=\"width: 33.2921%;\">Docente + coevaluación</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Sesión 5 — Vídeo</td>\n<td style=\"width: 33.2921%;\">Rúbrica de evaluación (ver abajo)</td>\n<td style=\"width: 33.2921%;\">Docente</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Sesión 6 — Presentación</td>\n<td style=\"width: 33.2921%;\">Lista de cotejo</td>\n<td style=\"width: 33.2921%;\">Docente</td>\n</tr>\n<tr>\n<td style=\"width: 33.2921%;\">Sesión 6 — Autoevaluación</td>\n<td style=\"width: 33.2921%;\">Formulario de autoevaluación (Teams)</td>\n<td style=\"width: 33.2921%;\">Alumnado</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777972139645-y3ffeaz9u</odePageId>
+      <odeBlockId>block-1777996332214-fw29fxnr9</odeBlockId>
+      <blockName>📊 Rúbrica de evaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972139645-y3ffeaz9u</odePageId>
+          <odeBlockId>block-1777996332214-fw29fxnr9</odeBlockId>
+          <odeIdeviceId>idevice-1777996332213-4jxdy7413</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Complete the following rubric</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777996332213-4jxdy7413%22%2C%22table%22%3A%7B%22title%22%3A%22Infograf%EDa%20interactiva%20%26%20V%EDdeo%22%2C%22categories%22%3A%5B%22Contenido%20%u2014%20Internet%20safety%20tips%22%2C%22Language%20use%20%u2014%20English%22%2C%22Visual%20design%20%26%20creativity%22%2C%22Interactivity%20%28infographic%20only%29%22%2C%22Teamwork%20%26%20effort%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Bien%22%2C%22Suficiente%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Includes%205+%20accurate%2C%20well-explained%20tips%20in%20correct%20English.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Includes%204%20tips%20with%20minor%20language%20errors.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Includes%203%20tips%3B%20some%20information%20is%20unclear.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Fewer%20than%203%20tips%20or%20major%20inaccuracies.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Uses%20a%20variety%20of%20structures%20%28imperatives%2C%20should%2C%20can/can%27t%29.%20Very%20few%20errors.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Uses%202%20structures.%20Some%20errors%20but%20meaning%20is%20clear.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Uses%20basic%20structures%20with%20frequent%20errors.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Very%20limited%20English%20or%20not%20in%20English.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Attractive%2C%20original%2C%20clear%20layout.%20Excellent%20use%20of%20images/icons.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Good%20design.%20Images%20are%20relevant.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Basic%20design.%20Few%20images.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Poor%20design.%20No%20images%20or%20very%20confusing%20layout.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%222+%20working%20interactive%20elements%20%28links%2C%20animations%2C%20buttons%29.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%221%20interactive%20element%20working%20correctly.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Attempted%20an%20interactive%20element%20but%20it%20doesn%27t%20work%20well.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20interactive%20elements.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Excellent%20collaboration.%20All%20members%20contributed%20equally.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Good%20collaboration.%20Most%20members%20contributed.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Some%20collaboration.%20Unequal%20contributions.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Little%20evidence%20of%20teamwork.%22%7D%5D%5D%7D%2C%22title%22%3A%22Infograf%EDa%20interactiva%20%26%20V%EDdeo%22%2C%22categories%22%3A%5B%22Contenido%20%u2014%20Internet%20safety%20tips%22%2C%22Language%20use%20%u2014%20English%22%2C%22Visual%20design%20%26%20creativity%22%2C%22Interactivity%20%28infographic%20only%29%22%2C%22Teamwork%20%26%20effort%22%5D%2C%22scores%22%3A%5B%22Excelente%22%2C%22Bien%22%2C%22Suficiente%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Includes%205+%20accurate%2C%20well-explained%20tips%20in%20correct%20English.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Includes%204%20tips%20with%20minor%20language%20errors.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Includes%203%20tips%3B%20some%20information%20is%20unclear.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Fewer%20than%203%20tips%20or%20major%20inaccuracies.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Uses%20a%20variety%20of%20structures%20%28imperatives%2C%20should%2C%20can/can%27t%29.%20Very%20few%20errors.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Uses%202%20structures.%20Some%20errors%20but%20meaning%20is%20clear.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Uses%20basic%20structures%20with%20frequent%20errors.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Very%20limited%20English%20or%20not%20in%20English.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Attractive%2C%20original%2C%20clear%20layout.%20Excellent%20use%20of%20images/icons.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Good%20design.%20Images%20are%20relevant.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Basic%20design.%20Few%20images.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Poor%20design.%20No%20images%20or%20very%20confusing%20layout.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%222+%20working%20interactive%20elements%20%28links%2C%20animations%2C%20buttons%29.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%221%20interactive%20element%20working%20correctly.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Attempted%20an%20interactive%20element%20but%20it%20doesn%27t%20work%20well.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20interactive%20elements.%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Excellent%20collaboration.%20All%20members%20contributed%20equally.%22%7D%2C%7B%22weight%22%3A%221.5%22%2C%22text%22%3A%22Good%20collaboration.%20Most%20members%20contributed.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Some%20collaboration.%20Unequal%20contributions.%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Little%20evidence%20of%20teamwork.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3EComplete%20the%20following%20rubric%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22Rubric%22%2C%22activity%22%3A%22Activity%22%2C%22name%22%3A%22Name%22%2C%22date%22%3A%22Date%22%2C%22score%22%3A%22Score%22%2C%22notes%22%3A%22Notes%22%2C%22download%22%3A%22Download%22%2C%22msgDelete%22%3A%22Are%20you%20sure%20you%20want%20clear%20all%20form%20fields%3F%22%2C%22reset%22%3A%22Reset%22%2C%22print%22%3A%22Print%22%2C%22apply%22%3A%22Apply%22%2C%22newWindow%22%3A%22New%20Window%22%2C%22msgEndGameScore%22%3A%22Please%20complete%20the%20rubric%20before%20saving%20your%20score.%22%2C%22msgScoreScorm%22%3A%22The%20score%20can%27t%20be%20saved%20because%20this%20page%20is%20not%20part%20of%20a%20SCORM%20package.%22%2C%22msgOnlySaveScore%22%3A%22You%20can%20only%20save%20the%20score%20once%21%22%2C%22msgYouScore%22%3A%22Your%20score%22%2C%22msgOnlySaveAuto%22%3A%22Your%20score%20will%20be%20saved%20after%20each%20change.%20You%20can%20only%20complete%20once.%22%2C%22msgSaveAuto%22%3A%22Your%20score%20will%20be%20automatically%20saved%20after%20each%20change.%22%2C%22msgSeveralScore%22%3A%22You%20can%20save%20the%20score%20as%20many%20times%20as%20you%20want%22%2C%22msgYouLastScore%22%3A%22The%20last%20score%20saved%20is%22%2C%22msgActityComply%22%3A%22You%20have%20already%20done%20this%20activity.%22%2C%22msgPlaySeveralTimes%22%3A%22You%20can%20do%20this%20activity%20as%20many%20times%20as%20you%20want%22%2C%22msgScore%22%3A%22Score%22%2C%22msgWeight%22%3A%22Weight%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Save%20score%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rubric</li><li class="activity">Activity</li><li class="name">Name</li><li class="date">Date</li><li class="score">Score</li><li class="notes">Notes</li><li class="download">Download</li><li class="msgDelete">Are you sure you want clear all form fields?</li><li class="reset">Reset</li><li class="print">Print</li><li class="apply">Apply</li><li class="newWindow">New Window</li><li class="msgEndGameScore">Please complete the rubric before saving your score.</li><li class="msgScoreScorm">The score can&#39;t be saved because this page is not part of a SCORM package.</li><li class="msgOnlySaveScore">You can only save the score once!</li><li class="msgYouScore">Your score</li><li class="msgOnlySaveAuto">Your score will be saved after each change. You can only complete once.</li><li class="msgSaveAuto">Your score will be automatically saved after each change.</li><li class="msgSeveralScore">You can save the score as many times as you want</li><li class="msgYouLastScore">The last score saved is</li><li class="msgActityComply">You have already done this activity.</li><li class="msgPlaySeveralTimes">You can do this activity as many times as you want</li><li class="msgScore">Score</li><li class="msgWeight">Weight</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3EComplete%20the%20following%20rubric%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777972139645-y3ffeaz9u</odePageId>
+      <odeBlockId>block-1777996944958-otnnm9r7o</odeBlockId>
+      <blockName>✅ Checklist — Oral presentation (Sesión 6)</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972139645-y3ffeaz9u</odePageId>
+          <odeBlockId>block-1777996944958-otnnm9r7o</odeBlockId>
+          <odeIdeviceId>idevice-1777996944956-adaqqrlhv</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Complete the following rubric</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1777996944956-adaqqrlhv%22%2C%22table%22%3A%7B%22title%22%3A%22Lista%20de%20cotejo%22%2C%22categories%22%3A%5B%22Presenta%20el%20producto%20en%20ingl%E9s.%22%2C%22Explica%20al%20menos%203%20consejos%20de%20seguridad.%22%2C%22Se%20expresa%20con%20claridad%20suficiente%20para%20ser%20comprendido/a.%22%2C%22Responde%20a%20una%20pregunta%20del%20p%FAblico.%22%2C%22El%20producto%20final%20%28infograf%EDa/v%EDdeo%29%20est%E1%20terminado.%22%2C%22Incluye%20elementos%20visuales%20y%20texto%20en%20ingl%E9s.%22%2C%22El%20v%EDdeo%20incluye%20una%20situaci%F3n%20de%20riesgo%20y%20su%20soluci%F3n.%22%2C%22La%20infograf%EDa%20incluye%20al%20menos%20un%20elemento%20interactivo.%22%5D%2C%22scores%22%3A%5B%22S%ED%22%2C%22No%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%5D%7D%2C%22title%22%3A%22Lista%20de%20cotejo%22%2C%22categories%22%3A%5B%22Presenta%20el%20producto%20en%20ingl%E9s.%22%2C%22Explica%20al%20menos%203%20consejos%20de%20seguridad.%22%2C%22Se%20expresa%20con%20claridad%20suficiente%20para%20ser%20comprendido/a.%22%2C%22Responde%20a%20una%20pregunta%20del%20p%FAblico.%22%2C%22El%20producto%20final%20%28infograf%EDa/v%EDdeo%29%20est%E1%20terminado.%22%2C%22Incluye%20elementos%20visuales%20y%20texto%20en%20ingl%E9s.%22%2C%22El%20v%EDdeo%20incluye%20una%20situaci%F3n%20de%20riesgo%20y%20su%20soluci%F3n.%22%2C%22La%20infograf%EDa%20incluye%20al%20menos%20un%20elemento%20interactivo.%22%5D%2C%22scores%22%3A%5B%22S%ED%22%2C%22No%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%2C%5B%7B%22weight%22%3A%221%22%2C%22text%22%3A%22S%ED%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22No%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3EComplete%20the%20following%20rubric%3C/p%3E%22%2C%22visible-info%22%3Afalse%2C%22i18n%22%3A%7B%22rubric%22%3A%22Rubric%22%2C%22activity%22%3A%22Activity%22%2C%22name%22%3A%22Name%22%2C%22date%22%3A%22Date%22%2C%22score%22%3A%22Score%22%2C%22notes%22%3A%22Notes%22%2C%22download%22%3A%22Download%22%2C%22msgDelete%22%3A%22Are%20you%20sure%20you%20want%20clear%20all%20form%20fields%3F%22%2C%22reset%22%3A%22Reset%22%2C%22print%22%3A%22Print%22%2C%22apply%22%3A%22Apply%22%2C%22newWindow%22%3A%22New%20Window%22%2C%22msgEndGameScore%22%3A%22Please%20complete%20the%20rubric%20before%20saving%20your%20score.%22%2C%22msgScoreScorm%22%3A%22The%20score%20can%27t%20be%20saved%20because%20this%20page%20is%20not%20part%20of%20a%20SCORM%20package.%22%2C%22msgOnlySaveScore%22%3A%22You%20can%20only%20save%20the%20score%20once%21%22%2C%22msgYouScore%22%3A%22Your%20score%22%2C%22msgOnlySaveAuto%22%3A%22Your%20score%20will%20be%20saved%20after%20each%20change.%20You%20can%20only%20complete%20once.%22%2C%22msgSaveAuto%22%3A%22Your%20score%20will%20be%20automatically%20saved%20after%20each%20change.%22%2C%22msgSeveralScore%22%3A%22You%20can%20save%20the%20score%20as%20many%20times%20as%20you%20want%22%2C%22msgYouLastScore%22%3A%22The%20last%20score%20saved%20is%22%2C%22msgActityComply%22%3A%22You%20have%20already%20done%20this%20activity.%22%2C%22msgPlaySeveralTimes%22%3A%22You%20can%20do%20this%20activity%20as%20many%20times%20as%20you%20want%22%2C%22msgScore%22%3A%22Score%22%2C%22msgWeight%22%3A%22Weight%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Save%20score%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rubric</li><li class="activity">Activity</li><li class="name">Name</li><li class="date">Date</li><li class="score">Score</li><li class="notes">Notes</li><li class="download">Download</li><li class="msgDelete">Are you sure you want clear all form fields?</li><li class="reset">Reset</li><li class="print">Print</li><li class="apply">Apply</li><li class="newWindow">New Window</li><li class="msgEndGameScore">Please complete the rubric before saving your score.</li><li class="msgScoreScorm">The score can&#39;t be saved because this page is not part of a SCORM package.</li><li class="msgOnlySaveScore">You can only save the score once!</li><li class="msgYouScore">Your score</li><li class="msgOnlySaveAuto">Your score will be saved after each change. You can only complete once.</li><li class="msgSaveAuto">Your score will be automatically saved after each change.</li><li class="msgSeveralScore">You can save the score as many times as you want</li><li class="msgYouLastScore">The last score saved is</li><li class="msgActityComply">You have already done this activity.</li><li class="msgPlaySeveralTimes">You can do this activity as many times as you want</li><li class="msgScore">Score</li><li class="msgWeight">Weight</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3EComplete%20the%20following%20rubric%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1777972139645-y3ffeaz9u</odePageId>
+      <odeBlockId>block-1777997145150-8m7izloo7</odeBlockId>
+      <blockName>Nota</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972139645-y3ffeaz9u</odePageId>
+          <odeBlockId>block-1777997145150-8m7izloo7</odeBlockId>
+          <odeIdeviceId>idevice-1777997145148-nb4ya3uem</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>ℹ️  Esta rúbrica y esta lista de cotejo estarán disponibles en el REA para que el alumnado las consulte en cualquier momento del proceso. También se compartirán en Teams al inicio de la SdA.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777997145148-nb4ya3uem","textInfoDurationInput":"","textInfoDurationTextInput":"Duration","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Grouping","textTextarea":"<p>ℹ️  Esta rúbrica y esta lista de cotejo estarán disponibles en el REA para que el alumnado las consulte en cualquier momento del proceso. También se compartirán en Teams al inicio de la SdA.</p>","textFeedbackInput":"Show Feedback","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1777972156093-jgp6rj74n</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Downloads and Licenses</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Downloads and Licenses</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1777972156093-jgp6rj74n</odePageId>
+      <odeBlockId>block-1777997194428-pr44r6bo3</odeBlockId>
+      <blockName>📥 Download source file</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1777972156093-jgp6rj74n</odePageId>
+          <odeBlockId>block-1777997194428-pr44r6bo3</odeBlockId>
+          <odeIdeviceId>idevice-1777997194427-ou4xxd9nz</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info" style="width: 45.4768%;"><caption>General information</caption>
+<tbody>
+<tr>
+<th style="width: 33.1536%;">Title</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 66.8464%;"><span class="exe-prop-title">Being safe online</span></td>
+</tr>
+<tr>
+<th style="width: 33.1536%;">Description</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 66.8464%;"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th style="width: 33.1536%;">Authorship</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 66.8464%;"><span class="exe-prop-author">Richard Taylor Pleite</span></td>
+</tr>
+<tr>
+<th style="width: 33.1536%;">License</th>
+<td class="mceNonEditable exe-prop-locked" style="width: 66.8464%;"><span class="exe-prop-license"><a href="https://creativecommons.org/licenses/by-sa/4.0/" rel="license" class="cc cc-by-sa"><span></span>Creative Commons BY-SA 4.0</a></span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><br></p>
+<p style="text-align: center;">This content was created with <a href="https://exelearning.net/">eXeLearning</a>, your free and open source editor to create educational resources.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Download .elpx file</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
